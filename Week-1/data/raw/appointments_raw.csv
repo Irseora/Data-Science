@@ -1,0 +1,1026 @@
+appointment_id,booking_date,appointment_date,age,waiting_days,fee,appointment_type,clinic,booking_channel,no_show
+APT-100527,09-Aug-2025,2025-08-19,70,10,$63.52,Procedure,Central,Walk-in,No
+APT-100359,2025-12-10,Dec 14 2025,45,4,£80,Procedure,Central,Walk-in,No
+APT-100447,03-Jul-2025,Jul 06 2025,53,3,$77.55,Blood Test,Central,Online,No
+APT-100031,2025/01/04,Jan 26 2025,12,22,£250.00,Follow-up,North,Phone,Yes
+APT-100621,10-Mar-2025,23-Mar-2025,unknown,13 days,€80,Follow-up,East,Phone,No
+APT-100590,Jan 24 2025,2025/02/03,23,10,64,Specialist,North,Walk-in,No
+APT-100905,Dec 29 2025,2026-01-08,50,10,$55,Blood Test,East,Phone,Yes
+APT-100737,05-Feb-2025,21-Feb-2025,23,16,$201,Specialist,East,Online,No
+APT-100076,09-Jul-2025,2025-07-19, 14 ,10,$244,Procedure,Central,Phone,No
+APT-100948,Nov 02 2025,11-Nov-2025,62,9,$106,Specialist,Central,Phone,No
+APT-100432,Feb 08 2025,2025/02/16,57,8,130.12,Checkup,North,Online,No
+APT-100070,2025/07/14,Jul 26 2025,41,,$202,Checkup,East,Online,Yes
+APT-100680,2025/01/04,2025-01-19,49,15 days,59,Checkup,East,Walk-in,No
+APT-100101,Apr 28 2025,2025/05/05,-10,7,125,Checkup,North,Walk-in,No
+APT-100845,2025/02/13,2025-02-26,24,13 days,$176,Blood Test,West,Online,No
+APT-100656,19-Mar-2025,29-Mar-2025,45,10 days,$337.56,Specialist,East,Online,No
+APT-100310,2025/09/07,15-Sep-2025,42,8,118.68,Procedure,East,Online,Yes
+APT-100344,11-Feb-2025,Feb 17 2025,59,6 days,129,Specialist,East,Phone,Yes
+APT-100837,May 24 2025,2025/05/27,44,N/A,€43,Follow-up,East,Walk-in,Yes
+APT-100174,not_a_date,31-Mar-2025,28,11,£85,Blood Test,Central,Walk-in,No
+APT-100096,Oct 13 2025,Oct 25 2025,43,12,€135.40,Checkup,Central,Online,No
+APT-100822,2025-08-26,21-Sep-2025, 38 ,26,£85,Specialist,East,Phone,No
+APT-100598,2025-10-22,28-Oct-2025,42,6,€242,Checkup,North,Online,No
+APT-100218,2025/03/03,Mar 09 2025,27,6,£97,Specialist,West,Walk-in,No
+APT-100420,2025-06-20,14-Jul-2025,52,24,€65,Checkup,Central,Phone,Yes
+APT-100208,2025/12/20,2026-01-02,17,13,$55.40,Specialist,North,Phone,No
+APT-100774,2025/12/20,2026/01/03,29,14,$155,Follow-up,North,Phone,No
+APT-100290,17-Feb-2025,not_a_date, 49 ,8,€116,Specialist,West,Phone,No
+APT-100889,09-Apr-2025,2025/04/26,42,17,$109.89,Follow-up,West,Online,No
+APT-100670,2025-02-01,Feb 19 2025,38,,154.41,Blood Test,North,Phone,No
+APT-100903,2025-06-04,2025/06/22,49,18 days,147.86,Specialist,East,Online,No
+APT-100411,08-Sep-2025,2025/09/10,52,2 days,€71.73,Specialist,East,Online,No
+APT-100636,Aug 19 2025,03-Sep-2025,25,15,$76.73,Procedure,West,Phone,No
+APT-100329,2025-02-11,Feb 25 2025,53,14,€150,Checkup,West,Online,No
+APT-100737,05-Feb-2025,21-Feb-2025,23,16,$201,Specialist,East,Online,No
+APT-100762,2025/06/09,Jul 06 2025,43,27,$-194,Checkup,Central,Phone,No
+APT-100490,Jun 29 2025,2025/07/08, 32 ,9,€277.85,Checkup,Central,Phone,Yes
+APT-100350,2025/06/11,23-Jun-2025,21,12,£80,Checkup,West,Phone,Yes
+APT-100500,02-Apr-2025,not_a_date,56,16,£240,Specialist,West,Walk-in,No
+APT-100307,not_a_date,28-Dec-2025,42,,€71,Specialist,North,Online,No
+APT-100853,2025-11-27,2025/12/15, 59 ,18,$80.04,Checkup,East,Phone,No
+APT-100351,14-May-2025,03-Jun-2025, 10 ,20,63,Blood Test,North,Phone,No
+APT-100643,Nov 17 2025,Nov 17 2025,50,0,$63.08,Checkup,East,Phone,No
+APT-100439,Oct 10 2025,2025/10/19, 55 ,9,,Blood Test,West,Online,No
+APT-100819,23-May-2025,2025-06-09, 24 ,17,€61,Specialist,North,Online,No
+APT-100833,19-Apr-2025,Apr 23 2025,47,4,£97.33,Follow-up,North,Online,Yes
+APT-100518,2025-12-29,Jan 08 2026,24,10,£77.94,Checkup,North,Online,No
+APT-100554,2025/06/04,not_a_date,38,N/A,$-77.29,Specialist,East,Walk-in,No
+APT-100289,Jan 08 2025,2025/01/13,3,5,106,Blood Test,North,Online,No
+APT-100292,2025/03/27,Apr 01 2025,42,5,79.35,Blood Test,North,Online,Yes
+APT-100213,2025-11-29,2025/12/13,58,14,€110.99,Checkup,West,Online,Yes
+APT-100966,19-Apr-2025,Apr 24 2025, 38 ,5,€210.55,Blood Test,Central,Online,Yes
+APT-100059,Oct 23 2025,08-Nov-2025,35,16 days,103.94,Specialist,West,Online,No
+APT-100692,12-Aug-2025,14-Aug-2025,58,2,137,Follow-up,West,Phone,Yes
+APT-100321,2025-01-26,2025-02-09,52,14,48,Follow-up,Central,Walk-in,No
+APT-100010,14-Feb-2025,2025-02-20,66,6,$108.60,Procedure,Central,Phone,Yes
+APT-100331,2025-02-05,08-Feb-2025,64,3,-117,Specialist,West,Phone,No
+APT-100334,12-Dec-2025,2025/12/28,45,16,$99.54,Follow-up,West,Walk-in,No
+APT-100918,07-Jan-2025,13-Jan-2025,39,6,$69.90,Blood Test,East,Online,No
+APT-100086,2025/11/22,2025/12/08,61,16,£245.51,Blood Test,North,Phone,Yes
+APT-100332,01-Nov-2025,2025-11-11, 38 ,10,£101.71,Checkup,Central,Online,No
+APT-100743,2025-01-11,Jan 21 2025,63,10,130,Specialist,North,Walk-in,No
+APT-100450,2025/05/08,2025/05/17,48,9,€54.40,Procedure,North,Walk-in,No
+APT-100468,2025/05/17,2025-05-23,20,6,€64.75,Blood Test,West,Online,No
+APT-100305,not_a_date,06-Jun-2025, 26 ,10 days,€165,Procedure,West,Phone,No
+APT-100030,2025/05/23,2025/05/28, 37 ,5.0,99,Checkup,East,Online,No
+APT-100558,05-Jun-2025,Jun 17 2025, 69 ,12 days,£64.90,Specialist,West,Online,No
+APT-100405,2025/06/25,Jul 09 2025,28,,59,Follow-up,Central,Walk-in,No
+APT-100054,2025-10-10,Oct 27 2025,32,17,€157,Follow-up,Central,Walk-in,No
+APT-100023,Nov 29 2025,not_a_date,81,0 days,£260.72,Procedure,West,Online,No
+APT-100761,2025-03-25,04-Apr-2025,55,10,101.81,Follow-up,Central,Walk-in,No
+APT-100481,Apr 25 2025,2025-04-28,35,3 days,€168,Checkup,West,Online,No
+APT-100003,2025-05-21,2025-06-10,30,20,$164,Blood Test,Central,Walk-in,No
+APT-100231,29-Dec-2025,2026-01-09,17,11,€44,Checkup,Central,Walk-in,No
+APT-100355,2025-05-03,2025/05/05, -5 ,2,141,Follow-up,East,Online,Yes
+APT-100673,2025-07-19,2025/07/26,25,7,$386.51,Blood Test,North,Online,No
+APT-100756,2025-07-08,Jul 21 2025,40,13 days,$121.94,Blood Test,Central,Walk-in,No
+APT-100843,Sep 22 2025,04-Oct-2025, 44 ,12 days,€184,Follow-up,West,Online,No
+APT-100667,2025-10-05,2025/10/25,33,20,£21,Blood Test,West,Phone,Yes
+APT-100215,2025-08-13,Aug 28 2025,64,N/A,€233,Specialist,North,Online,No
+APT-100634,Mar 23 2025,25-Mar-2025,36,2,$58.08,Procedure,Central,Walk-in,No
+APT-100318,Feb 01 2025,2025/02/13,,,£57.34,Procedure,Central,Phone,No
+APT-100986,Dec 28 2025,17-Jan-2026,55,20 days,$82,Checkup,East,Walk-in,No
+APT-100352,2025/04/15,2025/05/01,52,16,€238,Follow-up,North,Walk-in,Yes
+APT-100715,Aug 25 2025,2025/09/11,40,17,£142,Blood Test,East,Online,No
+APT-100394,Feb 23 2025,Mar 13 2025,35,18,£169.67,Checkup,Central,Phone,No
+APT-100198,2025-12-04,14-Dec-2025,46,10,€138,Checkup,East,Walk-in,Yes
+APT-100594,07-Feb-2025,24-Feb-2025,-1,17,£104,Procedure,North,Walk-in,No
+APT-100863,2025-05-05,2025/05/27, 11 ,22,€224,Follow-up,West,Online,No
+APT-100924,Jun 24 2025,12-Jul-2025,79,18,£196,Checkup,East,Walk-in,No
+APT-100039,Jun 22 2025,2025/07/03,61,11,$203,Specialist,East,Phone,No
+APT-100790,Feb 05 2025,18-Feb-2025,8,13,139.74,Follow-up,Central,Phone,No
+APT-100314,22-Apr-2025,2025-05-11,42,19 days,€155.06,Follow-up,West,Online,No
+APT-100761,2025-03-25,04-Apr-2025,55,10,101.81,Follow-up,Central,Walk-in,No
+APT-100580,Nov 14 2025,2025/11/26,46,12.0,$152.45,Follow-up,West,Online,No
+APT-100066,2025-05-29,2025-06-07,19,9,£75.73,Blood Test,North,Online,No
+APT-100717,26-Jan-2025,Feb 06 2025,45,11,€119.18,Specialist,North,Online,No
+APT-100067,2025/02/10,27-Feb-2025,63,17,€125,Checkup,Central,Online,No
+APT-100294,2025/09/06,2025-09-18,43,12,99.52,Specialist,East,Phone,No
+APT-100921,2025-08-29,31-Aug-2025, 55 ,2,€92.31,Specialist,West,Phone,No
+APT-100464,2025/06/20,Jun 29 2025,32,9.0,78.24,Checkup,East,Phone,No
+APT-100107,2025-04-19,30-Apr-2025, 23 ,11,$371.91,Procedure,East,Online,No
+APT-100629,2025-11-10,2025/11/27,57,17,€106.08,Blood Test,East,Walk-in,No
+APT-100576,2025/05/26,2025/06/06, 13 ,11,$190.64,Checkup,Central,Walk-in,Yes
+APT-100254,2025/02/18,2025-02-18, 64 ,0.0,£236.22,Checkup,North,Walk-in,No
+APT-100723,17-Jun-2025,2025/07/02,53,15,€99.65,Blood Test,West,Online,No
+APT-100929,Feb 28 2025,2025-03-09, 77 ,9,$114.21,Checkup,North,Phone,No
+APT-100539,2025/07/29,Aug 03 2025,-10,5,£97.11,Follow-up,Central,Phone,No
+APT-100915,not_a_date,2025-12-04,32,11,$41.85,Checkup,East,Online,No
+APT-100525,11-Apr-2025,2025-04-11,62,0,£127,Follow-up,West,Walk-in,No
+APT-100543,01-Jun-2025,2025/06/21,34,20,€90,Procedure,North,Online,No
+APT-100754,Dec 25 2025,Dec 28 2025,51,3 days,169,Follow-up,East,Online,No
+APT-100100,2025/01/29,29-Jan-2025,60,0,65.93,Follow-up,North,Online,No
+APT-100088,Oct 01 2025,07-Oct-2025,37,6 days,76.28,Specialist,West,Walk-in,No
+APT-100063,24-Jan-2025,2025-01-25,11,1,$90,Checkup,East,Online,Yes
+APT-100848,2025-09-08,13-Sep-2025,59,,94,Specialist,West,Walk-in,No
+APT-100893,2025-10-29,16-Nov-2025,40,18 days,$175,Checkup,North,Phone,No
+APT-100139,2025-08-05,2025/08/06,55,1 days,$148.97,Procedure,North,Walk-in,No
+APT-100603,2025-07-24,Aug 12 2025,28,19,€95.04,Blood Test,Central,Online,No
+APT-100620,not_a_date,2025-08-26,44,4,$80.09,Checkup,Central,Online,No
+APT-100542,2025-12-23,05-Jan-2026,72,13,$50.65,Blood Test,East,Phone,No
+APT-100494,14-Dec-2025,03-Jan-2026, 70 ,20,€162,Blood Test,Central,Online,No
+APT-100589,Jan 13 2025,2025/01/17,44,4,155.20,Follow-up,East,Walk-in,No
+APT-100109,2025-06-11,2025/06/20,76,9,159.55,Specialist,Central,Phone,Yes
+APT-100962,09-Nov-2025,20-Nov-2025,51,11,$186,Specialist,North,Online,No
+APT-100247,20-Oct-2025,Oct 25 2025,28,5,$128.01,Blood Test,West,Walk-in,No
+APT-100922,03-Sep-2025,13-Sep-2025,23,10,$180.16,Follow-up,North,Phone,No
+APT-100697,09-Dec-2025,2025-12-10, 30 ,1,€175,Follow-up,North,Online,No
+APT-100486,Jun 18 2025,2025/06/23, 16 ,5,$77,Checkup,West,Phone,No
+APT-100136,2025/11/18,2025/11/22, 63 ,4,£79,Specialist,West,Phone,No
+APT-100932,2025-09-09,09-Sep-2025,34,0,€58,Blood Test,North,Walk-in,No
+APT-100688,23-Apr-2025,2025-05-07, 47 ,N/A,€67.28,Procedure,Central,Phone,Yes
+APT-100758,2025-11-07,2025-11-10,71,3,£163,Follow-up,Central,Walk-in,No
+APT-100158,2025-05-31,2025/06/01,60,1,253.29,Follow-up,North,Online,No
+APT-100493,24-Jul-2025,Jul 27 2025,45,3,$136.03,Blood Test,North,Online,No
+APT-100501,2025/10/25,2025/11/17,32,23.0,£114.85,Follow-up,North,Online,No
+APT-100682,Jun 02 2025,2025/06/08,26,6,£61,Procedure,North,Walk-in,Yes
+APT-100973,2025-10-10,15-Oct-2025,46,5,€64.15,Specialist,Central,Walk-in,No
+APT-100256,Dec 04 2025,Dec 22 2025,72,18,64.64,Checkup,Central,Phone,No
+APT-100734,2025-06-29,2025/07/16,56,17,£117,Follow-up,West,Walk-in,No
+APT-100857,09-Jan-2025,22-Jan-2025,37,13,£81.70,Procedure,Central,Phone,No
+APT-100959,2025-10-19,2025-11-01,46,13,35.30,Checkup,North,Online,No
+APT-100617,13-Oct-2025,2025-10-28,unknown,N/A,£268.45,Blood Test,West,Phone,No
+APT-100983,2025/01/17,2025/01/26, 58 ,9,$67.15,Specialist,West,Phone,No
+APT-100901,2025/07/04,2025/07/11,36,7 days,€225.62,Specialist,West,Walk-in,No
+APT-100210,09-Jun-2025,Jun 22 2025,20,13 days,€168.32,Follow-up,West,Phone,No
+APT-100168,2025/11/17,25-Nov-2025,53,8,104.40,Follow-up,East,Online,No
+APT-100939,18-Mar-2025,24-Mar-2025,44,6,€76,Checkup,East,Online,No
+APT-100440,2025/03/17,29-Mar-2025, 54 ,12,$113,Procedure,North,Online,Yes
+APT-100371,Oct 03 2025,2025-10-16,73,13,$79,Checkup,West,Phone,No
+APT-100545,Mar 07 2025,11-Mar-2025,50,4,€132.94,Checkup,Central,Walk-in,No
+APT-100055,31-May-2025,Jun 16 2025,30,16 days,233.60,Blood Test,North,Phone,No
+APT-100120,2025-10-15,2025-10-30,62,15,154.71,Follow-up,West,Phone,No
+APT-100616,2025-01-26,2025-02-05,47,10 days,104.39,Specialist,West,Phone,No
+APT-100025,2025-10-07,17-Oct-2025,50,10,£133,Specialist,North,Phone,No
+APT-100072,Aug 21 2025,30-Aug-2025,43,9 days,$216.57,Specialist,West,Walk-in,No
+APT-100532,2025-06-10,Jun 19 2025, 48 ,9,€96.82,Checkup,East,Walk-in,No
+APT-100044,03-Jul-2025,03-Jul-2025,39,0,56.81,Procedure,East,Phone,Yes
+APT-100296,2025-04-20,2025/05/06, 59 ,16,$109,Follow-up,West,Walk-in,No
+APT-100199,01-Sep-2025,2025-09-02,67,1,€186,Blood Test,East,Phone,No
+APT-100753,2025/08/27,2025/09/13,9,17,£225,Blood Test,Central,Online,No
+APT-100793,2025/06/24,2025/06/25,54,1,$123.86,Follow-up,East,Online,No
+APT-100485,2025-07-24,24-Jul-2025,59,0 days,£137,Blood Test,North,Phone,No
+APT-100209,2025-04-13,2025/05/19,73,36,152.47,Procedure,East,Online,No
+APT-100265,2025/11/27,28-Nov-2025,17,1,86,Procedure,East,Walk-in,No
+APT-100377,2025-02-05,Feb 16 2025,61,,£190,Checkup,North,Online,No
+APT-100894,Sep 26 2025,Oct 15 2025,40,19,119.98,Procedure,East,Walk-in,Yes
+APT-100788,05-Dec-2025,2025/12/14,48,9 days,£183,Follow-up,North,Online,No
+APT-100528,05-Feb-2025,2025-02-16,33,11,€35.90,Specialist,North,Phone,No
+APT-100451,08-Dec-2025,2025/12/24,73,,£138,Specialist,Central,Phone,No
+APT-100595,2025-08-22,2025-08-28,24,6,111.81,Blood Test,North,Online,No
+APT-100745,20-Mar-2025,2025/03/24,46,4,€180.80,Follow-up,North,Online,No
+APT-100965,17-Nov-2025,2025/12/07, 44 ,20,116.82,Procedure,West,Online,Yes
+APT-100526,06-Jul-2025,06-Jul-2025, 76 ,0,£71.54,Follow-up,East,Walk-in,No
+APT-100306,2025-08-05,2025-08-23,43,18,$206.00,Checkup,Central,Online,Yes
+APT-100319,Jun 10 2025,2025-06-19, 39 ,9,£81,Blood Test,Central,Online,Yes
+APT-100060,2025/04/09,2025/04/15,56,N/A,148.33,Procedure,Central,Online,No
+APT-100482,2025-01-13,Jan 13 2025,73,0,€95.38,Procedure,East,Online,No
+APT-100854,2025-12-31,2026/01/19,60,19,98,Blood Test,West,Phone,No
+APT-100615,2025-08-26,Sep 05 2025,99,10,143,Procedure,North,Phone,No
+APT-100541,2025/07/26,28-Jul-2025, 74 ,2,244,Blood Test,West,Phone,No
+APT-100428,2025/08/07,Aug 24 2025,38,17 days,90.08,Specialist,North,Walk-in,No
+APT-100184,27-Feb-2025,07-Mar-2025,24,8,,Checkup,North,Walk-in,No
+APT-100881,29-Apr-2025,2025/05/05, 71 ,,111,Blood Test,East,Phone,Yes
+APT-100982,2025/05/30,Jun 02 2025, 31 ,3,$81.49,Procedure,North,Phone,Yes
+APT-100599,2025-04-10,2025-04-22,29,12,136.22,Specialist,West,Walk-in,Yes
+APT-100906,Oct 01 2025,Oct 01 2025,14,0,€188.01,Checkup,North,Online,No
+APT-100778,23-Dec-2025,2026-01-01, 34 ,9,$106,Follow-up,East,Online,No
+APT-100261,28-Aug-2025,2025-09-06,43,9.0,121,Procedure,West,Online,No
+APT-100342,Jan 21 2025,2025-02-01, 50 ,11,,Procedure,East,Online,Yes
+APT-100522,2025-10-03,2025-10-08,38,N/A,$116.55,Blood Test,North,Online,No
+APT-100237,2025-06-19,Jun 30 2025,32,11,€75,Blood Test,East,Online,No
+APT-100110,19-Apr-2025,19-Apr-2025,39,0 days,€120,Specialist,Central,Phone,No
+APT-100497,15-Jan-2025,Jan 23 2025, 64 ,8,191,Procedure,Central,Online,No
+APT-100516,May 11 2025,2025/05/24, 69 ,13,£45.97,Procedure,Central,Phone,No
+APT-100361,03-Jun-2025,2025/06/23,52,,150.16,Checkup,Central,Walk-in,No
+APT-100429,15-Oct-2025,15-Oct-2025, 37 ,0,,Checkup,East,Online,No
+APT-100973,2025-10-10,15-Oct-2025,46,5,€64.15,Specialist,Central,Walk-in,No
+APT-100277,05-Aug-2025,2025/08/10,49,5,$130.86,Blood Test,North,Online,No
+APT-100260,Jul 30 2025,2025-08-02,52,3,108,Follow-up,Central,Walk-in,No
+APT-100832,2025/09/07,09-Sep-2025,59,2,€75.50,Blood Test,North,Phone,No
+APT-100796,2025-09-08,17-Sep-2025,36,9,$116,Specialist,Central,Phone,No
+APT-100644,03-May-2025,May 11 2025, 23 ,8,$140,Follow-up,North,Online,No
+APT-100404,Apr 18 2025,2025/04/24,60,6,€71.42,Checkup,North,Walk-in,No
+APT-100842,2025-01-06,2025/01/08,32,2,£119,Follow-up,West,Phone,No
+APT-100835,2025/05/13,2025/05/24,49,,€85,Checkup,North,Walk-in,No
+APT-100137,Mar 23 2025,2025-03-30, 20 ,7,127,Blood Test,West,Phone,No
+APT-100534,2025-03-05,2025/03/10,34,5 days,€61.91,Follow-up,Central,Phone,Yes
+APT-100495,2025-10-02,15-Oct-2025,78,13,€59,Checkup,East,Phone,Yes
+APT-100244,20-Apr-2025,2025-04-21,30,1,£56.35,Follow-up,East,Online,No
+APT-100770,2025-07-23,Aug 06 2025,43,14,,Procedure,West,Phone,No
+APT-100530,19-Jun-2025,Jul 03 2025,45,14,$62.42,Follow-up,Central,Online,No
+APT-100572,31-Aug-2025,2025/09/12, 47 ,12,222.30,Follow-up,Central,Phone,No
+APT-100827,2025/06/22,2025/06/28,67,6,£86,Checkup,West,Walk-in,Yes
+APT-100411,08-Sep-2025,2025/09/10,52,2 days,€71.73,Specialist,East,Online,No
+APT-100716,not_a_date,Apr 14 2025,48,10 days,€98,Specialist,East,Online,No
+APT-100436,Jan 19 2025,09-Feb-2025,38,21,$197.31,Follow-up,Central,Phone,No
+APT-100859,2025/05/31,2025/06/14,47,14 days,€199,Procedure,Central,Online,No
+APT-100808,2025-05-19,2025-06-06,14,18,$74,Checkup,East,Walk-in,No
+APT-100371,Oct 03 2025,2025-10-16,73,13,$79,Checkup,West,Phone,No
+APT-100078,2025/04/18,2025/04/28,69,,62,Procedure,West,Online,No
+APT-100029,2025/10/29,Nov 05 2025,24,7,189,Checkup,North,Online,No
+APT-100380,May 26 2025,2025/05/30, 54 ,4,£221.42,Procedure,West,Online,Yes
+APT-100280,2025/08/25,Sep 04 2025, 44 ,10,€77.62,Follow-up,East,Online,No
+APT-100299,Mar 26 2025,2025-04-09,48,14,$100,Procedure,East,Walk-in,No
+APT-100662,Apr 20 2025,29-Apr-2025,,9,$123,Specialist,East,Walk-in,No
+APT-100655,2025-03-12,Mar 22 2025,37,,,Procedure,Central,Walk-in,No
+APT-100309,not_a_date,13-Dec-2025,51,8,€168,Blood Test,East,Walk-in,No
+APT-100165,2025-04-02,Apr 14 2025,86,12,£336.55,Procedure,East,Phone,Yes
+APT-100578,06-Dec-2025,Dec 06 2025,29,0,€83.03,Blood Test,Central,Phone,No
+APT-100178,29-Sep-2025,Oct 07 2025,24,8,€116.32,Blood Test,Central,Online,No
+APT-100740,Jan 16 2025,2025/01/16,40,0,£62,Checkup,North,Online,No
+APT-100065,Apr 27 2025,16-May-2025,22,19,$187.68,Blood Test,West,Online,No
+APT-100141,2025/02/02,Feb 21 2025,,19,€61,Specialist,West,Phone,Yes
+APT-100467,2025/05/08,23-May-2025,49,N/A,$87,Blood Test,Central,Walk-in,No
+APT-100388,Sep 28 2025,14-Oct-2025,43,16.0,39.58,Follow-up,North,Walk-in,No
+APT-100849,2025/10/12,Oct 18 2025,50,6,€41,Specialist,Central,Walk-in,No
+APT-100425,Aug 15 2025,2025/09/03, 7 ,19,$115,Checkup,West,Phone,No
+APT-100333,2025-02-04,2025-02-09,69,5,150,Checkup,West,Walk-in,No
+APT-100684,2025-08-03,2025/08/04,21,1 days,133,Procedure,East,Phone,No
+APT-100887,20-Dec-2025,Dec 27 2025,50,7,N/A,Procedure,Central,Phone,No
+APT-100423,May 15 2025,May 31 2025,27,16,$69,Specialist,North,Phone,No
+APT-100972,30-Mar-2025,2025-04-14,54,15,46,Blood Test,North,Online,No
+APT-100221,2025/02/02,2025-02-02,48,0,$66.55,Follow-up,West,Online,No
+APT-100275,Aug 18 2025,2025/08/31,45,13 days,£148,Follow-up,Central,Phone,No
+APT-100235,2025-02-04,Feb 18 2025,72,,£58.71,Blood Test,West,Online,No
+APT-100327,30-Jan-2025,Feb 14 2025,39,15,£182.76,Follow-up,East,Walk-in,No
+APT-100192,Feb 13 2025,Feb 24 2025,31,11,£148,Checkup,East,Walk-in,No
+APT-100529,Dec 07 2025,2025-12-10,22,3 days,$79.61,Checkup,East,Phone,No
+APT-100049,24-Aug-2025,Aug 24 2025,67,0,£112,Blood Test,Central,Walk-in,No
+APT-100990,06-Feb-2025,17-Feb-2025,56,11,€84,Follow-up,North,Online,No
+APT-100002,13-Jan-2025,27-Jan-2025,43,14 days,€134.20,Follow-up,Central,Walk-in,Yes
+APT-100940,Oct 16 2025,Oct 17 2025, 48 ,1,$94,Follow-up,North,Phone,No
+APT-100787,2025-08-08,Aug 21 2025,28,13,118.70,Specialist,East,Online,No
+APT-100926,Jan 27 2025,2025/02/02,-4,6,270,Checkup,Central,Walk-in,No
+APT-100249,2025/08/31,2025/09/12,unknown,12,€96.50,Blood Test,Central,Phone,No
+APT-100552,2025-11-12,Nov 30 2025,26,18,$65.10,Blood Test,Central,Walk-in,No
+APT-100949,Nov 13 2025,2025-11-24, 41 ,,267.19,Specialist,West,Walk-in,No
+APT-100174,not_a_date,31-Mar-2025,28,11,£85,Blood Test,Central,Walk-in,No
+APT-100094,24-Nov-2025,01-Dec-2025,55,7,185,Blood Test,East,Walk-in,Yes
+APT-100033,24-Dec-2025,2025-12-26, 54 ,,€131.25,Procedure,West,Online,Yes
+APT-100259,2025/08/05,2025-08-20,41,15,186.17,Blood Test,East,Phone,No
+APT-100204,Nov 07 2025,07-Nov-2025,43,0,£91.73,Specialist,Central,Online,No
+APT-100346,2025-12-03,2025/12/03, -4 ,0,159,Specialist,Central,Phone,No
+APT-100593,Nov 09 2025,21-Nov-2025,58,12,$224,Procedure,Central,Online,No
+APT-100328,2025-09-18,Oct 02 2025, 20 ,14,$220.26,Checkup,Central,Online,Yes
+APT-100077,2025-07-01,not_a_date,34,7,€63.95,Blood Test,East,Online,No
+APT-100084,2025/02/06,Feb 10 2025,49,,€144.56,Procedure,Central,Phone,Yes
+APT-100678,2025/07/14,2025/07/30,60,16,€198,Blood Test,East,Online,No
+APT-100082,2025/12/16,Jan 05 2026,36,20,$59,Follow-up,North,Phone,Yes
+APT-100370,Feb 07 2025,17-Feb-2025,39,N/A,$48,Checkup,West,Phone,No
+APT-100936,2025-12-18,Dec 20 2025,47,,€135.74,Procedure,Central,Walk-in,No
+APT-100895,2025/11/02,Nov 16 2025,35,14,205.38,Procedure,Central,Walk-in,No
+APT-100535,Jun 03 2025,13-Jun-2025, 13 ,10 days,£38.51,Specialist,Central,Walk-in,Yes
+APT-100382,2025/08/13,2025/08/13, 81 ,0,€37.03,Follow-up,West,Walk-in,Yes
+APT-100718,May 14 2025,2025-05-21,55,7,99.20,Blood Test,West,Online,No
+APT-100298,2025/01/31,Feb 15 2025,47,15,$169,Specialist,East,Phone,Yes
+APT-100005,25-Apr-2025,May 03 2025, 49 ,8,85.62,Checkup,Central,Walk-in,No
+APT-100430,2025-01-05,2025/01/06,48,1,$66.26,Specialist,East,Online,No
+APT-100604,2025-05-05,17-May-2025,33,12 days,£78,Procedure,Central,Phone,No
+APT-100097,2025/04/23,2025/05/04, 6 ,11 days,$153,Procedure,Central,Phone,No
+APT-100286,2025/01/26,03-Feb-2025, 9 ,8,$192.01,Procedure,East,Phone,No
+APT-100381,Mar 22 2025,2025/03/27,33,5.0,£254,Follow-up,Central,Online,No
+APT-100890,21-Apr-2025,2025/05/06,52,15,137.80,Checkup,West,Phone,No
+APT-100281,08-May-2025,2025/05/22, 39 ,14,258.23,Follow-up,North,Phone,No
+APT-100266,2025-02-20,2025/03/13,40,,€151,Blood Test,North,Phone,No
+APT-100448,2025/04/18,not_a_date,64,6,76,Specialist,Central,Walk-in,No
+APT-100707,31-Oct-2025,2025/11/22,76,22 days,129.59,Specialist,Central,Phone,No
+APT-100323,2025/09/02,Sep 26 2025,51,24.0,£69.74,Specialist,East,Walk-in,No
+APT-100408,21-Nov-2025,Dec 01 2025, 36 ,10.0,$57,Checkup,Central,Walk-in,Yes
+APT-100898,Apr 10 2025,2025/04/28, 52 ,18 days,€72.18,Procedure,West,Online,No
+APT-100538,2025-12-08,2025/12/25,21,17,£90.96,Blood Test,Central,Phone,No
+APT-100118,Mar 13 2025,Mar 30 2025,46,17,$132,Procedure,East,Online,Yes
+APT-100693,2025/09/06,2025/09/20,18,14,€134.69,Blood Test,East,Walk-in,No
+APT-100250,2025-05-05,06-May-2025,48,1,£144,Blood Test,East,Phone,No
+APT-100664,Aug 01 2025,Aug 06 2025, 65 ,5,$48,Specialist,West,Phone,No
+APT-100666,Jun 19 2025,2025/06/27,24,8,€71.93,Blood Test,West,Online,No
+APT-100009,2025-10-07,2025-10-20,32,13,£221.62,Procedure,North,Walk-in,No
+APT-100196,2025/03/06,2025-03-09,42,3,$123,Blood Test,West,Walk-in,No
+APT-100712,2025/11/26,Dec 02 2025,3,6,133.70,Follow-up,Central,Online,Yes
+APT-100081,2025/12/26,Jan 07 2026,36,12,$78.57,Checkup,Central,Walk-in,No
+APT-100583,2025/05/01,May 26 2025, 43 ,25,€127.17,Blood Test,West,Walk-in,No
+APT-100507,2025/06/26,2025/06/29,59,3,£120.67,Blood Test,Central,Online,No
+APT-100668,Aug 27 2025,27-Aug-2025,57,0.0,146.21,Procedure,West,Walk-in,Yes
+APT-100239,2025-09-21,06-Oct-2025,71,15 days,£112,Blood Test,Central,Walk-in,No
+APT-100312,2025-04-08,Apr 23 2025,67,15,$392.89,Blood Test,East,Online,No
+APT-100211,2025/07/24,10-Aug-2025,30,17,£252,Follow-up,Central,Walk-in,No
+APT-100861,2025/07/27,Jul 27 2025, 57 ,0,€50,Checkup,Central,Phone,No
+APT-100549,Jul 14 2025,2025/07/19,64,5,€182.02,Procedure,Central,Walk-in,No
+APT-100479,2025/06/06,2025/06/23,34,17,$186.62,Follow-up,East,Walk-in,No
+APT-100227,2025-10-29,2025-10-31,39,2,£59.33,Specialist,West,Walk-in,Yes
+APT-100910,2025/01/28,04-Feb-2025,73,,$29,Follow-up,West,Walk-in,No
+APT-100362,2025-08-23,Sep 01 2025,44,9,£194.92,Specialist,North,Phone,No
+APT-100967,2025-05-16,Jun 07 2025,39,22,€152,Blood Test,East,Online,No
+APT-100177,2025/10/04,Oct 24 2025,40,20,$113,Checkup,West,Online,No
+APT-100884,2025/06/11,not_a_date,42,14,104.92,Procedure,North,Online,No
+APT-100938,2025/03/19,30-Mar-2025, 62 ,11,94,Blood Test,Central,Online,No
+APT-100499,May 14 2025,2025/05/14,53,0 days,€75,Follow-up,North,Phone,No
+APT-100679,2025/09/02,2025/09/20,34,18,€58,Blood Test,Central,Walk-in,No
+APT-100483,04-Dec-2025,2025-12-15,35,11,€97.11,Procedure,North,Phone,No
+APT-100007,Feb 22 2025,2025/03/09,53,15,65,Follow-up,West,Online,No
+APT-100155,2025-11-25,2025-11-29, 60 ,4,165,Follow-up,East,Walk-in,No
+APT-100557,2025-01-01,07-Jan-2025,28,6 days,128,Specialist,Central,Walk-in,No
+APT-100665,2025-07-28,07-Aug-2025,,10,120,Specialist,Central,Walk-in,Yes
+APT-100513,2025/07/17,2025-07-20,8,3,$144.56,Procedure,North,Walk-in,No
+APT-100424,24-Mar-2025,2025/04/07, 23 ,14,$119.40,Checkup,East,Online,No
+APT-100799,Jul 05 2025,2025/07/15,42,10,142,Specialist,Central,Walk-in,No
+APT-100584,Dec 11 2025,2025-12-22, 50 ,11,€70.55,Checkup,North,Phone,No
+APT-100357,Jul 22 2025,2025/07/29,49,7,£139,Checkup,West,Phone,No
+APT-100596,2025-08-01,2025/08/09,53,8,£114.16,Checkup,Central,Phone,No
+APT-100958,2025-06-06,19-Jun-2025,61,13 days,£134,Blood Test,Central,Walk-in,No
+APT-100585,2025-06-08,2025-06-19,54,11,68.35,Checkup,Central,Walk-in,No
+APT-100445,06-Jul-2025,Jul 20 2025,30,14,39.81,Procedure,West,Online,No
+APT-100851,Dec 20 2025,2025-12-26,74,6,$111,Checkup,Central,Phone,No
+APT-100601,Jul 16 2025,2025/07/19,67,3,$63.82,Specialist,Central,Phone,No
+APT-100728,2025/05/10,May 16 2025, 49 ,6,£56,Blood Test,West,Phone,No
+APT-100478,2025-06-29,2025-07-30,26,31 days,£88.98,Blood Test,North,Walk-in,No
+APT-100896,2025/05/25,2025-06-02,37,8,$227.05,Procedure,North,Online,No
+APT-100228,2025/04/23,Apr 27 2025,59,,£159,Blood Test,East,Phone,No
+APT-100866,2025-10-25,Nov 06 2025, 61 ,12,51.20,Checkup,North,Online,No
+APT-100749,2025/12/09,09-Dec-2025,,0,$40,Procedure,West,Phone,No
+APT-100212,2025-12-10,26-Dec-2025,29,16,138.33,Follow-up,North,Phone,No
+APT-100079,Dec 10 2025,10-Dec-2025,57,0,49.59,Specialist,North,Online,No
+APT-100148,2025-10-11,24-Oct-2025,71,13.0,€112,Follow-up,Central,Phone,No
+APT-100302,19-Jul-2025,03-Aug-2025, 39 ,,$39.92,Specialist,West,Online,No
+APT-100798,2025/08/10,Aug 20 2025,61,10,€122.77,Blood Test,West,Walk-in,Yes
+APT-100633,2025-08-17,2025-08-24, 61 ,7,$83,Checkup,Central,Online,No
+APT-100523,2025/12/18,2025-12-31,25,13,£51.94,Blood Test,East,Phone,Yes
+APT-100365,2025-01-05,2025/01/12,39,7,€65,Checkup,North,Walk-in,No
+APT-100043,19-Feb-2025,Feb 26 2025, 41 ,7,£64,Follow-up,East,Walk-in,No
+APT-100846,04-May-2025,2025-05-16, 65 ,12,141.60,Specialist,North,Walk-in,No
+APT-100133,25-Jan-2025,2025-02-07,50,13,54.22,Follow-up,East,Phone,No
+APT-100567,15-Aug-2025,2025-08-17,51,2,£81,Procedure,West,Online,No
+APT-100311,Mar 21 2025,2025/04/07,57,17,£48.16,Specialist,West,Walk-in,No
+APT-100626,2025/11/01,2025-11-04,,3,,Checkup,West,Walk-in,No
+APT-100597,2025/11/19,22-Nov-2025,79,3,€77.55,Specialist,Central,Online,No
+APT-100810,Oct 03 2025,2025-10-11,33,8,€68,Blood Test,East,Walk-in,No
+APT-100000,2025-11-24,Dec 07 2025, 67 ,13,£234.58,Procedure,Central,Walk-in,No
+APT-100316,2025-10-24,Nov 07 2025, 23 ,14,$82.96,Checkup,West,Walk-in,Yes
+APT-100867,08-Jul-2025,2025/07/20,62,12,£197.40,Follow-up,West,Phone,No
+APT-100954,2025-08-15,Aug 24 2025, 31 ,9,,Specialist,North,Online,Yes
+APT-100551,2025/03/31,08-Apr-2025,38,8 days,168,Checkup,West,Phone,No
+APT-100548,Dec 07 2025,2025/12/19,56,12,$119.74,Follow-up,East,Phone,Yes
+APT-100947,2025-11-07,12-Nov-2025,41,5 days,,Blood Test,Central,Online,Yes
+APT-100398,Feb 24 2025,2025/03/05,64,N/A,106,Follow-up,West,Phone,No
+APT-100172,2025/11/08,17-Nov-2025, 44 ,9,£177,Specialist,East,Online,No
+APT-100125,26-Oct-2025,Nov 20 2025,21,25 days,52,Procedure,North,Phone,Yes
+APT-100422,2025-11-23,2025-12-01,35,8,103,Blood Test,East,Online,No
+APT-100449,16-Dec-2025,2025/12/18,42,2,£97.96,Procedure,North,Phone,No
+APT-100587,2025-04-12,2025/04/16,35,4,109.49,Specialist,Central,Online,No
+APT-100925,2025/04/05,05-Apr-2025,25,,77.05,Specialist,East,Online,No
+APT-100090,2025/03/25,Apr 04 2025,41,10 days,74.16,Checkup,East,Phone,No
+APT-100963,2025-02-20,06-Mar-2025,54,14,€239.00,Procedure,East,Online,No
+APT-100181,Jun 15 2025,2025-06-18,67,3,149.66,Blood Test,East,Phone,No
+APT-100363,Jun 11 2025,Jun 23 2025,24,12 days,121,Blood Test,Central,Phone,No
+APT-100274,Oct 02 2025,2025-10-05, 64 ,3,278.68,Blood Test,West,Walk-in,No
+APT-100917,Feb 22 2025,05-Mar-2025,31,11,$160,Procedure,Central,Walk-in,Yes
+APT-100069,2025-02-21,2025/02/26,48,N/A,€275,Procedure,North,Phone,No
+APT-100291,2025/05/02,08-May-2025,87,6,120,Blood Test,East,Phone,No
+APT-100131,Sep 10 2025,2025-09-20, 50 ,10,$225.65,Procedure,Central,Online,No
+APT-100300,Jul 14 2025,18-Jul-2025, 30 ,4 days,£221,Blood Test,Central,Walk-in,Yes
+APT-100453,01-Jul-2025,Jul 14 2025,89,13,,Checkup,West,Walk-in,No
+APT-100326,2025/03/22,Apr 09 2025,25,,160,Checkup,North,Walk-in,No
+APT-100144,Nov 02 2025,Nov 13 2025,39,11,95,Follow-up,North,Phone,No
+APT-100544,Oct 11 2025,2025/10/11,31,0 days,€46.89,Procedure,East,Walk-in,No
+APT-100960,2025-11-14,28-Nov-2025, 41 ,14 days,£84,Specialist,Central,Phone,No
+APT-100660,2025/03/20,Mar 25 2025, 66 ,5,€79.81,Blood Test,Central,Online,No
+APT-100135,2025/03/20,09-Apr-2025,59,20,250.93,Procedure,West,Online,No
+APT-100435,2025/10/07,17-Oct-2025,47,10,$80.38,Procedure,West,Walk-in,No
+APT-100164,14-Sep-2025,30-Sep-2025, 60 ,16,$85.84,Checkup,West,Phone,Yes
+APT-100028,2025-08-18,2025/08/23, 53 ,5,£175,Blood Test,Central,Online,No
+APT-100792,2025/11/28,09-Dec-2025,39,N/A,£263,Specialist,East,Phone,No
+APT-100193,Sep 06 2025,Sep 07 2025,48,1,$126,Checkup,West,Online,No
+APT-100752,2025/04/22,2025/04/25,,3,67.74,Blood Test,North,Phone,No
+APT-100657,2025-04-29,2025/05/08,66,N/A,111.52,Procedure,East,Online,No
+APT-100817,06-May-2025,2025-05-22,29,16,69,Follow-up,East,Phone,No
+APT-100169,Jun 02 2025,Jun 06 2025,57,,€194,Specialist,Central,Phone,No
+APT-100759,Nov 07 2025,Nov 21 2025, 66 ,14,81,Follow-up,North,Phone,No
+APT-100140,2025/11/02,13-Nov-2025,37,11,$377,Procedure,East,Phone,No
+APT-100173,Apr 12 2025,2025/04/24,41,12,92,Blood Test,West,Online,No
+APT-100006,2025-03-13,2025/04/03,58,21,€81.43,Checkup,East,Online,Yes
+APT-100626,2025/11/01,2025-11-04,,3,,Checkup,West,Walk-in,No
+APT-100755,2025-05-12,Jun 09 2025,67,28,202,Follow-up,East,Online,No
+APT-100669,2025/08/01,2025/08/18, 52 ,17 days,$63,Checkup,Central,Walk-in,No
+APT-100073,22-Nov-2025,2025-12-12, 19 ,20,63,Specialist,North,Phone,No
+APT-100703,Nov 15 2025,Nov 15 2025,62,0,€210,Procedure,North,Walk-in,No
+APT-100442,2025-03-07,2025-03-07,45,0 days,€286,Procedure,North,Walk-in,No
+APT-100238,2025-02-06,11-Feb-2025,52,5.0,£131.05,Specialist,Central,Walk-in,Yes
+APT-100145,Aug 28 2025,2025-09-12,42,15,€192.18,Follow-up,East,Online,No
+APT-100813,12-Aug-2025,23-Aug-2025,58,11,$188.47,Procedure,North,Walk-in,No
+APT-100234,2025/04/28,2025/05/23,28,,105,Procedure,West,Phone,No
+APT-100220,2025/04/26,2025/05/22, 21 ,26,$156,Follow-up,East,Walk-in,No
+APT-100506,11-Aug-2025,2025/08/16,55,5,136,Checkup,North,Online,Yes
+APT-100678,2025/07/14,2025/07/30,60,16,€198,Blood Test,East,Online,No
+APT-100132,2025/02/16,2025-02-18,71,2,$-114.75,Specialist,Central,Phone,No
+APT-100883,Apr 09 2025,2025-04-26,31,,$52.12,Checkup,North,Phone,No
+APT-100750,2025/02/28,03-Mar-2025,-7,3,€127,Blood Test,East,Phone,No
+APT-100675,2025-12-23,2025-12-27,36,4 days,$96.15,Specialist,Central,Walk-in,No
+APT-100185,2025-07-05,2025/07/19,59,14,€84.91,Procedure,Central,Online,No
+APT-100041,Feb 17 2025,Feb 28 2025, 34 ,11,110,Specialist,North,Walk-in,No
+APT-100630,2025/09/16,2025-09-16,51,0 days,€129.75,Follow-up,North,Phone,No
+APT-100108,18-Oct-2025,29-Oct-2025, 31 ,11,214.58,Blood Test,East,Walk-in,Yes
+APT-100653,Oct 04 2025,Oct 06 2025,36,2,$39.50,Specialist,Central,Online,No
+APT-100056,18-Nov-2025,22-Nov-2025,42,4,€71.25,Specialist,West,Online,No
+APT-100433,Dec 20 2025,Jan 04 2026,32,N/A,$118.32,Checkup,East,Online,No
+APT-100784,2025/01/22,Feb 04 2025,43,13,$258.20,Specialist,North,Phone,No
+APT-100581,2025/06/21,2025-06-28,63,7,85.92,Blood Test,North,Phone,No
+APT-100882,Mar 03 2025,09-Mar-2025,20,6,€32,Specialist,West,Online,No
+APT-100024,Dec 26 2025,01-Jan-2026, 73 ,6,97,Checkup,East,Phone,No
+APT-100816,2025/06/15,26-Jun-2025, 3 ,11,35,Checkup,West,Walk-in,No
+APT-100785,Jun 27 2025,2025-07-14,16,17,£191,Procedure,East,Phone,No
+APT-100547,2025-08-04,12-Aug-2025,47,8,122.76,Follow-up,North,Online,No
+APT-100638,07-May-2025,2025-05-07,79,0,€-129.19,Follow-up,East,Phone,No
+APT-100714,2025-03-11,20-Mar-2025,32,9,$51,Blood Test,East,Phone,No
+APT-100950,2025/04/26,2025/05/04,10,8,$219.57,Specialist,West,Walk-in,No
+APT-100338,19-Oct-2025,31-Oct-2025,35,12,$118.45,Specialist,East,Walk-in,No
+APT-100051,2025-03-05,12-Mar-2025, 49 ,7,25,Blood Test,West,Phone,No
+APT-100383,2025/10/06,Oct 12 2025,31,6,116,Blood Test,North,Walk-in,No
+APT-100531,Nov 16 2025,Nov 16 2025,10,0,$67,Checkup,North,Phone,No
+APT-100943,08-May-2025,May 17 2025,36,N/A,€209.34,Checkup,West,Phone,No
+APT-100652,13-Jun-2025,Jun 21 2025,45,8.0,$47.77,Specialist,Central,Phone,Yes
+APT-100264,Dec 01 2025,2025-12-09,45,8 days,62,Follow-up,Central,Online,No
+APT-100847,28-Jul-2025,2025/08/24,26,,£361,Follow-up,North,Phone,No
+APT-100731,10-Jan-2025,2025-01-13,36,3,$94.17,Blood Test,East,Online,Yes
+APT-100930,2025-02-03,2025-02-09, 20 ,,€113.85,Follow-up,Central,Online,No
+APT-100444,Jun 07 2025,2025-06-07, 49 ,0,222,Specialist,East,Online,No
+APT-100395,Mar 10 2025,Mar 16 2025,45,N/A,$88,Follow-up,West,Online,No
+APT-100533,2025-12-06,Dec 07 2025,39,1,$82.17,Procedure,West,Walk-in,Yes
+APT-100477,24-Aug-2025,Sep 05 2025, 50 ,12,€122,Checkup,North,Phone,Yes
+APT-100018,2025-09-16,19-Sep-2025,36,3 days,€191,Procedure,Central,Online,No
+APT-100736,2025-11-29,Dec 10 2025,23,11,,Blood Test,East,Walk-in,No
+APT-100514,2025/10/23,2025/10/28,41,5,€123.07,Procedure,East,Phone,No
+APT-100980,2025-11-01,Nov 16 2025, 25 ,15,$-160,Checkup,East,Phone,Yes
+APT-100462,2025/01/13,Jan 18 2025,38,5,£88,Specialist,Central,Online,No
+APT-100367,15-Nov-2025,25-Nov-2025, 25 ,10 days,$242,Checkup,Central,Phone,No
+APT-100083,2025-11-28,2025-12-04,79,6,299.96,Blood Test,West,Walk-in,No
+APT-100061,27-Dec-2025,2026-01-04,-9,8,£100,Checkup,East,Walk-in,No
+APT-100280,2025/08/25,Sep 04 2025, 44 ,10,€77.62,Follow-up,East,Online,No
+APT-100272,2025-04-09,27-Apr-2025, 22 ,18,£317,Checkup,North,Walk-in,Yes
+APT-100285,2025-02-20,2025/02/20, 18 ,,£115.11,Procedure,Central,Walk-in,No
+APT-100360,not_a_date,10-Dec-2025, 42 ,13,£62,Blood Test,Central,Online,No
+APT-100354,10-Jun-2025,2025/06/19,32,9 days,$124.11,Specialist,East,Walk-in,No
+APT-100988,2025/12/26,2026-01-03,30,8,€65.86,Blood Test,North,Online,No
+APT-100278,04-Apr-2025,2025-04-14,45,10,£95.25,Blood Test,Central,Walk-in,No
+APT-100012,05-Aug-2025,2025-08-16,79,11,105,Specialist,East,Phone,No
+APT-100182,not_a_date,2025/09/10,59,2 days,€56,Specialist,North,Online,Yes
+APT-100368,2025-10-16,2025-10-26,34,10,€98.04,Follow-up,West,Online,No
+APT-100519,2025/08/12,2025-08-27,75,15,$69.25,Follow-up,Central,Walk-in,No
+APT-100635,2025-09-01,01-Sep-2025,35,0 days,£59.84,Checkup,East,Online,No
+APT-100223,Jan 11 2025,Jan 11 2025, 49 ,0,€224.19,Blood Test,East,Phone,No
+APT-100591,06-May-2025,May 12 2025, -10 ,6,€73,Procedure,East,Phone,No
+APT-100913,24-Dec-2025,14-Jan-2026,51,21,€46.62,Blood Test,Central,Online,No
+APT-100696,Jun 22 2025,2025/07/04,24,N/A,€201.55,Procedure,West,Phone,No
+APT-100732,Oct 04 2025,16-Oct-2025,42,12,€62.34,Checkup,East,Walk-in,No
+APT-100465,2025/07/30,2025-08-07,53,8,$161.96,Blood Test,Central,Walk-in,No
+APT-100602,11-Sep-2025,2025/09/27,,16,$62.04,Checkup,North,Walk-in,No
+APT-100628,2025-08-15,2025-08-25,43,10,$106,Blood Test,East,Walk-in,No
+APT-100176,Mar 24 2025,2025-04-03,12,10,£121,Specialist,North,Phone,Yes
+APT-100685,Oct 03 2025,2025-10-17,63,N/A,£78,Specialist,West,Walk-in,No
+APT-100892,2025-05-22,Jun 08 2025,34,17,78,Blood Test,West,Online,No
+APT-100605,2025-03-17,2025-04-09,25,23,$65,Specialist,Central,Phone,Yes
+APT-100456,2025/11/14,23-Nov-2025, 56 ,9 days,$92.47,Specialist,North,Phone,Yes
+APT-100536,2025/09/17,2025/09/20,unknown,3,£129.01,Specialist,West,Walk-in,No
+APT-100393,2025/12/06,2025/12/28,44,22,€89,Checkup,East,Online,No
+APT-100163,May 15 2025,19-May-2025,12,N/A,52,Specialist,West,Walk-in,No
+APT-100248,Oct 23 2025,2025-11-14, 46 ,22 days,€86,Procedure,East,Online,No
+APT-100834,Jul 01 2025,2025-07-10,31,9 days,$94.07,Specialist,West,Online,No
+APT-100907,2025-03-06,21-Mar-2025,22,15,$438.83,Blood Test,North,Online,No
+APT-100689,2025/09/07,2025-09-20,37,13.0,,Checkup,West,Online,No
+APT-100375,2025/03/09,2025/03/13,,4,£90.75,Procedure,West,Walk-in,No
+APT-100412,2025-05-09,09-May-2025, 50 ,N/A,,Blood Test,Central,Phone,No
+APT-100074,Jul 06 2025,2025/07/06, 60 ,0,£154.94,Checkup,West,Online,No
+APT-100113,2025/07/22,Aug 18 2025, 51 ,27,$211,Specialist,North,Walk-in,Yes
+APT-100588,Mar 17 2025,Apr 01 2025,27,15,$137,Follow-up,East,Phone,Yes
+APT-100824,2025/11/09,Nov 15 2025,45,,£121,Follow-up,East,Online,No
+APT-100390,2025/12/08,2025/12/11,50,3,€222.23,Procedure,West,Phone,Yes
+APT-100104,2025/07/25,Aug 02 2025,62,N/A,$106,Follow-up,East,Phone,No
+APT-100114,Nov 26 2025,2025-12-04, 45 ,8,$173,Procedure,East,Phone,Yes
+APT-100417,May 22 2025,01-Jun-2025,47,10,€138.43,Procedure,West,Phone,Yes
+APT-100970,Mar 22 2025,2025-04-01,53,10 days,£65,Blood Test,Central,Walk-in,Yes
+APT-100457,Mar 21 2025,2025-03-23,49,,€140,Specialist,North,Online,No
+APT-100409,2025-05-16,29-May-2025,,13,€169,Checkup,West,Walk-in,No
+APT-100092,2025-07-14,19-Jul-2025,55,5,59.21,Follow-up,West,Walk-in,No
+APT-100582,2025-02-17,03-Mar-2025,24,14 days,$104.49,Blood Test,West,Online,No
+APT-100089,06-May-2025,not_a_date, 38 ,13,£47.40,Checkup,North,Online,No
+APT-100336,Jul 26 2025,30-Jul-2025,31,4,N/A,Follow-up,Central,Phone,No
+APT-100899,2025/06/01,Jun 05 2025,,4,166.59,Checkup,East,Phone,No
+APT-100944,Mar 02 2025,2025/03/24,53,,€88.02,Blood Test,North,Phone,No
+APT-100976,2025/01/02,2025-01-08,62,6,160,Follow-up,North,Walk-in,No
+APT-100888,Apr 05 2025,2025/04/19,33,14,90.39,Specialist,East,Walk-in,Yes
+APT-100625,Oct 14 2025,2025/10/20,61,6,$131.58,Procedure,North,Walk-in,No
+APT-100613,2025-12-23,Dec 25 2025,41,2 days,$59,Blood Test,North,Walk-in,No
+APT-100631,07-Aug-2025,27-Aug-2025,27,20.0,$203,Blood Test,East,Online,No
+APT-100011,Oct 30 2025,2025/11/05,46,6,291,Blood Test,North,Online,No
+APT-100396,2025-05-16,16-May-2025,18,0 days,£130,Checkup,East,Walk-in,No
+APT-100549,Jul 14 2025,2025/07/19,64,5,€182.02,Procedure,Central,Walk-in,No
+APT-100042,14-Jul-2025,Jul 23 2025,61,9,267.08,Blood Test,Central,Online,No
+APT-100167,24-Feb-2025,2025/03/19,52,23,£25,Checkup,North,Walk-in,No
+APT-100416,2025-08-05,2025/08/25,43,20,£159,Specialist,North,Phone,No
+APT-100777,2025/02/22,2025/03/02,41,8,£108.46,Procedure,East,Online,No
+APT-100426,10-Oct-2025,2025/10/13,79,3,$184,Specialist,Central,Phone,No
+APT-100904,not_a_date,Jan 19 2025,40,N/A,€104.64,Blood Test,West,Online,No
+APT-100987,2025/05/25,2025-06-10,51,16,108,Specialist,North,Online,No
+APT-100704,2025/10/01,2025-10-01,49,0,£158.72,Follow-up,East,Online,No
+APT-100802,2025/12/29,2026/01/08,29,10 days,£227,Specialist,West,Online,Yes
+APT-100257,Aug 09 2025,2025-08-14,50,5,$63.16,Procedure,Central,Online,Yes
+APT-100335,not_a_date,2025-05-09,36,8,280,Procedure,Central,Phone,No
+APT-100015,2025/02/17,2025/02/23,46,6,£135.32,Blood Test,East,Online,No
+APT-100649,2025-05-01,May 15 2025,89,14 days,£78,Follow-up,North,Walk-in,No
+APT-100324,2025-09-15,17-Sep-2025, 43 ,,$119.08,Blood Test,North,Walk-in,No
+APT-100873,Oct 09 2025,Oct 13 2025,56,4 days,€97,Specialist,Central,Phone,No
+APT-100222,2025/06/23,2025/07/07, 53 ,,£250.00,Specialist,North,Online,No
+APT-100179,2025-01-01,2025-01-30,22,29,€76,Procedure,Central,Online,No
+APT-100811,2025-09-05,2025-09-11,,6,N/A,Procedure,North,Phone,Yes
+APT-100521,Sep 24 2025,2025/10/07, 52 ,13,£113.99,Blood Test,Central,Online,No
+APT-100022,Apr 12 2025,Apr 22 2025,42,10,$70.49,Checkup,East,Online,No
+APT-100356,May 16 2025,25-May-2025,32,9,€59,Blood Test,Central,Online,No
+APT-100977,2025/07/29,Jul 29 2025,59,0,€254.17,Specialist,West,Online,No
+APT-100883,Apr 09 2025,2025-04-26,31,,$52.12,Checkup,North,Phone,No
+APT-100340,2025/10/24,Oct 28 2025, 45 ,4,157.50,Procedure,East,Phone,Yes
+APT-100431,27-Feb-2025,Feb 27 2025,57,0 days,108.82,Specialist,West,Walk-in,No
+APT-100568,2025/08/15,15-Aug-2025, 14 ,0.0,105,Specialist,West,Online,Yes
+APT-100855,Sep 09 2025,Sep 15 2025, 30 ,6,€156.20,Follow-up,Central,Online,Yes
+APT-100203,2025/09/28,15-Oct-2025,52,17,$73.01,Blood Test,East,Walk-in,No
+APT-100650,May 20 2025,11-Jun-2025, 52 ,22,€344,Checkup,West,Online,No
+APT-100093,2025-05-19,26-May-2025,43,7,€132.33,Follow-up,West,Phone,No
+APT-100575,2025/02/13,2025-02-13, 41 ,0,€193.24,Checkup,West,Phone,No
+APT-100068,2025/04/30,2025-05-12,34,12,£48,Specialist,North,Online,Yes
+APT-100858,17-Feb-2025,2025/02/23,47,6,€61,Procedure,West,Phone,No
+APT-100284,Oct 09 2025,2025/11/02,28,24,263.30,Blood Test,West,Walk-in,No
+APT-100826,Jul 14 2025,2025-08-04,22,21,72.93,Blood Test,East,Walk-in,No
+APT-100434,Mar 18 2025,2025/04/07, 39 ,20.0,136,Blood Test,East,Online,No
+APT-100153,Oct 02 2025,2025-10-13,18,11,101.92,Specialist,North,Phone,No
+APT-100075,2025/03/25,09-Apr-2025, 33 ,15 days,$70.09,Follow-up,North,Walk-in,No
+APT-100751,2025/10/16,16-Oct-2025, 54 ,0,,Checkup,Central,Walk-in,Yes
+APT-100446,2025/01/21,2025-02-02,32,12,€166,Procedure,Central,Walk-in,No
+APT-100188,2025/01/30,03-Feb-2025,52,4,€120.70,Blood Test,East,Online,Yes
+APT-100271,May 08 2025,2025/05/08,53,0,€93,Specialist,East,Walk-in,No
+APT-100236,2025-01-17,2025/01/17,,0,£104.89,Specialist,East,Walk-in,No
+APT-100487,23-May-2025,2025-05-25,10,2 days,€173.68,Specialist,North,Online,No
+APT-100559,2025-05-27,2025/06/03, 37 ,7,$101,Blood Test,North,Walk-in,No
+APT-100117,May 16 2025,2025/05/17,41,1 days,£144.45,Follow-up,North,Online,No
+APT-100964,Apr 17 2025,26-Apr-2025,52,,79.45,Follow-up,East,Phone,No
+APT-100512,2025/03/01,Mar 09 2025, 29 ,8,107,Procedure,Central,Online,No
+APT-100570,2025-04-20,2025-04-30,56,10.0,$121,Blood Test,North,Walk-in,No
+APT-100611,23-Apr-2025,2025/05/02, 14 ,9,€68.19,Specialist,East,Online,No
+APT-100126,24-Jul-2025,2025/07/27,47,3,£83.76,Blood Test,Central,Phone,No
+APT-100116,2025/03/15,Mar 24 2025,,9,150,Specialist,West,Phone,Yes
+APT-100473,2025/01/20,2025-02-08, 42 ,19,$119.35,Checkup,Central,Walk-in,Yes
+APT-100713,Aug 08 2025,2025-08-20, 57 ,12,192.43,Blood Test,Central,Phone,No
+APT-100057,2025/11/13,20-Nov-2025, 63 ,7,€229.82,Specialist,West,Phone,No
+APT-100694,15-Jan-2025,2025-01-29, 44 ,14,$238.28,Procedure,North,Walk-in,No
+APT-100934,2025-10-23,05-Nov-2025, 90 ,13,118.84,Procedure,Central,Phone,Yes
+APT-100369,2025/02/21,Feb 25 2025, 26 ,4,87,Procedure,Central,Walk-in,Yes
+APT-100268,Jul 26 2025,2025/08/01,29,6 days,€120,Checkup,East,Online,Yes
+APT-100046,2025-11-06,Nov 12 2025, 54 ,6,€154.56,Specialist,East,Online,No
+APT-100349,25-Sep-2025,2025-10-03,38,8 days,161.97,Blood Test,North,Walk-in,No
+APT-100195,30-Sep-2025,2025/10/12,50,12,$118,Follow-up,East,Online,Yes
+APT-100102,17-Jan-2025,2025-01-24, 80 ,7,€44.68,Specialist,West,Phone,No
+APT-100953,2025/08/19,2025/09/08,30,20 days,€113.13,Follow-up,Central,Online,Yes
+APT-100711,Feb 12 2025,Feb 21 2025, 40 ,9,171,Procedure,East,Walk-in,No
+APT-100757,27-Mar-2025,not_a_date,,11,£67,Specialist,East,Online,Yes
+APT-100263,11-Dec-2025,13-Dec-2025,25,2,181,Follow-up,Central,Online,Yes
+APT-100443,Jan 22 2025,2025-01-31, 19 ,9,£123.80,Blood Test,East,Online,Yes
+APT-100695,Jul 19 2025,Jul 26 2025,77,7,105.75,Specialist,West,Walk-in,No
+APT-100304,2025-08-21,2025/08/30,,9 days,$78,Blood Test,West,Online,No
+APT-100341,01-Nov-2025,2025/11/12, 42 ,N/A,€63,Specialist,Central,Online,No
+APT-100618,08-May-2025,2025-05-21,34,13,€142.54,Checkup,Central,Walk-in,No
+APT-100993,16-May-2025,May 21 2025,55,,$54,Procedure,Central,Walk-in,No
+APT-100149,Jan 06 2025,Jan 18 2025,27,12,63,Specialist,Central,Walk-in,No
+APT-100124,2025/08/08,22-Aug-2025,71,N/A,100,Blood Test,Central,Phone,No
+APT-100807,30-Nov-2025,2025-12-06,51,6,85,Blood Test,East,Walk-in,No
+APT-100844,2025/04/08,19-Apr-2025,45,11 days,€94.31,Checkup,North,Online,No
+APT-100050,2025-10-02,14-Oct-2025,31,12,£164,Specialist,Central,Phone,No
+APT-100353,2025/12/09,17-Dec-2025,56,8,£100.75,Specialist,North,Phone,No
+APT-100951,2025-09-25,07-Oct-2025,65,12,£160,Specialist,West,Online,No
+APT-100142,17-Jul-2025,17-Jul-2025, 39 ,0 days,€64.75,Specialist,North,Online,Yes
+APT-100470,Dec 26 2025,Jan 03 2026,64,8,£153,Follow-up,Central,Phone,No
+APT-100399,11-Oct-2025,2025-10-29,30,18,$157,Procedure,West,Walk-in,No
+APT-100820,2025-08-19,2025-08-25,40,6,$80.16,Procedure,West,Phone,Yes
+APT-100320,2025-01-30,09-Feb-2025,43,10,€134.50,Procedure,West,Walk-in,No
+APT-100019,05-Nov-2025,2025/11/05,50,0,£158,Procedure,East,Walk-in,Yes
+APT-100971,2025/05/03,not_a_date,-10,5,€101,Blood Test,East,Phone,No
+APT-100811,2025-09-05,2025-09-11,,6,N/A,Procedure,North,Phone,Yes
+APT-100830,2025-06-16,2025/06/16,,0 days,234,Specialist,West,Online,No
+APT-100407,2025/12/18,Dec 27 2025,69,9 days,€105.23,Procedure,West,Online,No
+APT-100537,not_a_date,Jun 15 2025,32,7,€161,Specialist,East,Phone,No
+APT-100721,Apr 19 2025,2025/04/19,37,,€65,Blood Test,West,Phone,Yes
+APT-100038,2025-04-21,2025-04-21,46,0,€92,Follow-up,East,Walk-in,No
+APT-100175,11-Jul-2025,2025-07-26,37,15,€119,Procedure,West,Walk-in,No
+APT-100245,Oct 04 2025,2025-10-11,20,7,£67.17,Specialist,North,Online,No
+APT-100850,May 04 2025,2025/05/09,30,5 days,€54,Procedure,North,Online,No
+APT-100687,2025/11/05,2025/11/12,46,7,,Procedure,Central,Online,No
+APT-100946,2025-08-02,Aug 02 2025,49,N/A,€117.32,Checkup,East,Online,No
+APT-100880,2025/05/09,2025-06-05,59,N/A,€75.65,Follow-up,West,Walk-in,No
+APT-100154,17-May-2025,2025/05/29,72,12,$217.41,Specialist,North,Walk-in,No
+APT-100287,Nov 30 2025,2025-12-14,51,14,£113,Blood Test,East,Phone,No
+APT-100622,Aug 26 2025,18-Sep-2025,59,N/A,144.39,Specialist,North,Walk-in,Yes
+APT-100569,Dec 12 2025,2025/12/19, 32 ,7,£28.70,Procedure,East,Walk-in,No
+APT-100764,Oct 24 2025,11-Nov-2025,38,18,£106,Checkup,Central,Walk-in,No
+APT-100017,30-Apr-2025,May 12 2025,33,12 days,89,Blood Test,Central,Walk-in,No
+APT-100127,Jul 05 2025,2025/07/11,28,6,€50.75,Checkup,Central,Walk-in,No
+APT-100322,2025/10/27,31-Oct-2025, 41 ,4,$80,Checkup,North,Phone,No
+APT-100255,2025/02/19,25-Feb-2025,20,6,€104,Procedure,East,Online,No
+APT-100677,2025/10/22,2025/11/13, 69 ,22,€107.88,Checkup,Central,Phone,No
+APT-100991,not_a_date,18-Dec-2025,56,N/A,$237,Checkup,Central,Online,Yes
+APT-100190,18-Oct-2025,2025-10-24, 44 ,,£40,Checkup,West,Phone,No
+APT-100115,2025-08-23,Sep 04 2025,49,12,58.30,Follow-up,North,Online,No
+APT-100636,Aug 19 2025,03-Sep-2025,25,15,$76.73,Procedure,West,Phone,No
+APT-100606,2025/12/02,2025-12-06, 44 ,4,€92,Procedure,North,Phone,Yes
+APT-100180,Nov 03 2025,2025-11-17,45,14,$161,Specialist,Central,Phone,Yes
+APT-100301,not_a_date,08-Jan-2025,60,6 days,$282,Checkup,East,Online,Yes
+APT-100780,17-Dec-2025,28-Dec-2025,17,11,$113.19,Checkup,East,Phone,No
+APT-100874,2025/06/19,28-Jun-2025,66,9 days,249,Procedure,Central,Online,No
+APT-100800,Nov 22 2025,2025/12/08,76,16,€68.00,Procedure,Central,Online,No
+APT-100705,Jan 14 2025,2025/01/28, 38 ,14,38,Checkup,East,Walk-in,No
+APT-100823,19-Oct-2025,26-Oct-2025,30,7,£86.72,Checkup,Central,Online,No
+APT-100517,2025/01/23,26-Jan-2025,53,3,128,Blood Test,West,Walk-in,No
+APT-100076,09-Jul-2025,2025-07-19, 14 ,10,$244,Procedure,Central,Phone,No
+APT-100045,26-Jun-2025,2025/06/30,58,4,$106.18,Specialist,Central,Online,No
+APT-100941,2025-06-05,2025-06-21,35,16,£228,Blood Test,East,Online,No
+APT-100157,Feb 27 2025,Mar 12 2025, 83 ,13,£136.06,Checkup,North,Walk-in,No
+APT-100765,2025/01/14,2025-01-19,27,5,€41.80,Procedure,Central,Walk-in,Yes
+APT-100171,2025-09-17,21-Sep-2025,,4,158.61,Checkup,Central,Online,No
+APT-100016,2025/04/22,24-Apr-2025, 30 ,2,128.33,Specialist,Central,Online,No
+APT-100511,19-Sep-2025,2025-09-28,39,9 days,103.35,Procedure,Central,Online,No
+APT-100048,Jan 23 2025,2025/02/04,69,12,132.83,Specialist,North,Online,Yes
+APT-100998,not_a_date,12-Aug-2025,39,6,120.34,Follow-up,West,Online,No
+APT-100923,14-Aug-2025,2025-08-19,46,5,$60,Follow-up,North,Online,No
+APT-100515,08-Apr-2025,2025-04-23,40,15,€252.11,Checkup,Central,Walk-in,No
+APT-100706,21-Jul-2025,2025-07-22,54,1,€133.87,Follow-up,West,Walk-in,No
+APT-100480,2025/04/27,06-May-2025,55,9,,Procedure,West,Phone,No
+APT-100283,2025-08-15,2025-08-16,59,N/A,€112.69,Procedure,West,Phone,No
+APT-100739,2025-01-21,07-Feb-2025,73,17,€56.59,Procedure,West,Phone,No
+APT-100885,03-Mar-2025,25-Mar-2025,47,22 days,$117.85,Blood Test,Central,Walk-in,Yes
+APT-100225,2025/10/11,2025-10-28,40,17,€72,Blood Test,East,Phone,Yes
+APT-100026,03-Aug-2025,2025-08-04, 43 ,1.0,152.39,Blood Test,North,Phone,No
+APT-100803,Mar 20 2025,26-Mar-2025,15,6,£125,Follow-up,Central,Phone,No
+APT-100437,Jul 09 2025,2025-07-09, 71 ,0,£275,Checkup,West,Phone,Yes
+APT-100981,Aug 29 2025,Sep 10 2025,,12,$60,Blood Test,West,Walk-in,No
+APT-100364,2025/02/07,2025-02-21,64,14,£54.14,Follow-up,Central,Online,No
+APT-100229,2025/01/04,18-Jan-2025,82,14,£129,Procedure,East,Phone,Yes
+APT-100037,Mar 21 2025,2025-03-21,16,0,500,Checkup,West,Online,No
+APT-100992,Apr 30 2025,2025-05-08,63,8,£114.34,Follow-up,West,Walk-in,No
+APT-100374,May 16 2025,10-Jun-2025,68,25,117,Follow-up,East,Online,No
+APT-100469,2025-03-23,Mar 28 2025, 50 ,5,€123.89,Blood Test,East,Phone,No
+APT-100994,2025-11-17,Nov 19 2025,48,2,€101,Specialist,West,Phone,No
+APT-100872,2025/08/06,2025-08-06, 36 ,0,£99.34,Checkup,East,Online,No
+APT-100914,Mar 06 2025,2025-03-15,10,9,39,Follow-up,East,Walk-in,Yes
+APT-100746,2025-05-03,May 14 2025,60,11,$97,Procedure,Central,Walk-in,No
+APT-100194,2025/02/05,Feb 16 2025,13,11,138,Specialist,East,Online,No
+APT-100876,2025/12/26,01-Jan-2026, 32 ,,€97.17,Checkup,East,Phone,No
+APT-100886,Oct 02 2025,16-Oct-2025,27,14 days,£98,Follow-up,North,Walk-in,Yes
+APT-100503,2025/01/20,02-Feb-2025, 42 ,13,101.38,Blood Test,West,Walk-in,No
+APT-100996,2025/12/05,2025/12/27,42,22,£148,Follow-up,North,Walk-in,No
+APT-100852,01-Sep-2025,2025-09-06, 21 ,5,£185,Checkup,West,Walk-in,No
+APT-100579,Nov 21 2025,Dec 09 2025,27,18,99.11,Follow-up,West,Phone,Yes
+APT-100995,Oct 29 2025,2025-11-06,61,8,€65.19,Checkup,North,Walk-in,No
+APT-100162,2025/01/02,20-Jan-2025,17,18,$222.23,Checkup,Central,Walk-in,No
+APT-100722,Aug 21 2025,2025-08-21,55,0,€115.81,Checkup,Central,Online,No
+APT-100152,2025/12/16,Dec 21 2025,30,5,€79.50,Specialist,East,Phone,No
+APT-100916,not_a_date,2025-09-23,28,14,€153,Blood Test,North,Online,No
+APT-100720,17-Jun-2025,not_a_date,51,12.0,102.24,Checkup,Central,Phone,No
+APT-100956,2025-10-29,not_a_date,4,12,$177,Blood Test,Central,Online,No
+APT-100111,Dec 02 2025,Dec 11 2025,46,9,£51,Specialist,West,Walk-in,No
+APT-100226,Apr 28 2025,May 08 2025,43,10,$40,Checkup,West,Phone,No
+APT-100708,2025-10-16,Oct 16 2025,40,0,£118.55,Specialist,East,Online,No
+APT-100103,11-Jun-2025,15-Jun-2025,39,4,,Checkup,West,Walk-in,No
+APT-100421,08-Mar-2025,Mar 30 2025,61,22,65,Procedure,North,Phone,No
+APT-100419,Jan 02 2025,2025-01-12,51,10,$77,Procedure,East,Phone,No
+APT-100933,07-Feb-2025,07-Feb-2025,40,0,,Blood Test,Central,Online,No
+APT-100586,2025-04-26,02-May-2025, 45 ,6,£102,Specialist,West,Walk-in,No
+APT-100801,2025/08/24,Aug 30 2025, 41 ,6,£53.69,Procedure,North,Phone,No
+APT-100672,2025-08-04,2025-08-11,35,7,$127.81,Checkup,West,Online,No
+APT-100119,2025/05/07,2025/05/22,61,15,$109.38,Procedure,West,Online,Yes
+APT-100053,2025/02/10,24-Feb-2025, 47 ,14,105,Checkup,North,Online,No
+APT-100151,Feb 28 2025,12-Mar-2025,3,12.0,51,Blood Test,West,Phone,No
+APT-100403,Nov 06 2025,Nov 16 2025,55,10,$67,Blood Test,West,Online,Yes
+APT-100969,not_a_date,2025-02-11,62,0,£250.64,Checkup,West,Phone,No
+APT-100207,2025/10/04,2025/10/17, 30 ,13,105,Procedure,North,Walk-in,No
+APT-100658,16-Jul-2025,27-Jul-2025,24,11,£107,Procedure,West,Walk-in,Yes
+APT-100865,06-Dec-2025,2025-12-13,12,7,86,Checkup,East,Phone,No
+APT-100783,2025/10/17,31-Oct-2025,56,14,$51.73,Follow-up,Central,Walk-in,No
+APT-100008,2025/12/13,2025/12/19,61,6,€339.30,Blood Test,North,Walk-in,No
+APT-100829,2025/09/11,2025-09-19,,8,115,Checkup,West,Walk-in,No
+APT-100036,May 23 2025,Jun 03 2025,20,11 days,186.95,Procedure,West,Online,No
+APT-100452,2025-02-22,2025-02-25,46,3 days,£122.01,Checkup,Central,Phone,No
+APT-100651,21-Jun-2025,Jul 08 2025, 48 ,17,117,Follow-up,West,Online,No
+APT-100253,2025/04/08,2025/04/25,49,17,€133,Blood Test,Central,Walk-in,No
+APT-100303,2025/05/16,May 30 2025, 28 ,14 days,,Checkup,North,Phone,No
+APT-100767,Oct 22 2025,2025-11-13,39,22,€157.73,Procedure,North,Phone,Yes
+APT-100571,not_a_date,10-Oct-2025,19,21,€65.44,Checkup,Central,Phone,No
+APT-100623,2025/12/08,2025-12-27,30,N/A,£97,Procedure,West,Phone,No
+APT-100730,Aug 29 2025,09-Sep-2025,38,,$152,Follow-up,Central,Walk-in,No
+APT-100740,Jan 16 2025,2025/01/16,40,0,£62,Checkup,North,Online,No
+APT-100262,2025-01-28,2025/01/28,52,0,,Blood Test,East,Walk-in,No
+APT-100610,Aug 06 2025,2025-08-20,37,14,£67.02,Checkup,Central,Phone,Yes
+APT-100297,2025-07-25,2025/08/06,unknown,12,199,Follow-up,North,Online,No
+APT-100414,17-Feb-2025,Mar 01 2025,30,12,$91.04,Procedure,Central,Phone,No
+APT-100150,not_a_date,Dec 26 2025,24,,46.20,Checkup,North,Online,Yes
+APT-100809,2025/11/12,not_a_date,58,3,£107,Specialist,North,Online,No
+APT-100640,May 22 2025,29-May-2025,42,7,$127.61,Blood Test,North,Online,No
+APT-100911,2025-10-11,2025/10/22,82,11,€218,Checkup,East,Phone,No
+APT-100550,Dec 13 2025,not_a_date,40,10 days,145.16,Checkup,North,Online,No
+APT-100899,2025/06/01,Jun 05 2025,,4,166.59,Checkup,East,Phone,No
+APT-100488,2025/02/05,26-Feb-2025,15,21,$84.95,Blood Test,Central,Online,No
+APT-100710,Jan 14 2025,Jan 25 2025,62,11,50,Procedure,East,Phone,No
+APT-100147,09-May-2025,2025-05-09,16,0.0,193.53,Specialist,East,Online,No
+APT-100146,2025-09-28,2025/09/29,22,1,66.21,Procedure,East,Walk-in,No
+APT-100741,2025-05-07,2025/05/08, 39 ,1,$107,Blood Test,North,Walk-in,No
+APT-100997,2025-04-12,2025-04-26, 26 ,14,£97,Checkup,Central,Walk-in,No
+APT-100760,Feb 28 2025,2025/03/05,72,5.0,$117,Follow-up,East,Phone,No
+APT-100659,Dec 22 2025,30-Dec-2025,63,8,£91.60,Blood Test,East,Walk-in,No
+APT-100348,17-Oct-2025,not_a_date,17,4 days,€153.45,Specialist,North,Online,Yes
+APT-100463,02-Apr-2025,13-Apr-2025,27,11,£51,Specialist,Central,Walk-in,No
+APT-100325,2025-09-29,30-Sep-2025,6,1,$147.83,Specialist,East,Online,No
+APT-100186,07-Jun-2025,Jun 20 2025,24,13,$152,Checkup,Central,Online,No
+APT-100123,27-Oct-2025,2025-10-27,21,0,£139.25,Specialist,North,Phone,No
+APT-100974,08-Feb-2025,14-Feb-2025,42,6 days,£189,Procedure,Central,Phone,No
+APT-100608,2025-01-03,03-Jan-2025,48,,$119,Specialist,North,Walk-in,No
+APT-100143,15-Jul-2025,2025-07-26,44,11,€62,Blood Test,North,Walk-in,No
+APT-100985,2025-05-28,29-May-2025,51,1 days,158,Checkup,West,Phone,No
+APT-100197,Mar 07 2025,2025/03/18,52,11,$180,Checkup,Central,Walk-in,No
+APT-100609,2025/02/24,not_a_date, 37 ,20 days,$86,Blood Test,East,Phone,No
+APT-100279,2025/05/23,2025-05-30,36,7,125.19,Specialist,West,Phone,No
+APT-100293,28-Jul-2025,2025-08-12,57,15 days,£90.76,Checkup,North,Online,No
+APT-100400,2025-03-21,2025/03/21,23,0.0,£87.31,Blood Test,Central,Walk-in,No
+APT-100122,2025/05/15,03-Jun-2025,53,19,$80.48,Blood Test,Central,Walk-in,No
+APT-100183,2025/01/10,Jan 23 2025, 14 ,,$91.30,Procedure,North,Walk-in,Yes
+APT-100202,May 16 2025,2025-06-02,,17,122,Blood Test,Central,Online,Yes
+APT-100438,2025/10/26,26-Oct-2025,51,0,$49.77,Follow-up,West,Walk-in,No
+APT-100246,Mar 09 2025,2025-03-15,43,6,$122.53,Procedure,East,Online,No
+APT-100415,2025/11/21,2025/11/25,59,4,-147,Checkup,East,Phone,No
+APT-100814,31-Oct-2025,Nov 17 2025,37,17 days,,Checkup,East,Online,No
+APT-100786,2025-09-30,2025/10/15,36,15,63,Blood Test,Central,Phone,No
+APT-100928,not_a_date,22-Sep-2025,62,20 days,€93,Follow-up,East,Phone,No
+APT-100789,2025/07/09,2025-07-09, 66 ,0,€161,Procedure,Central,Phone,Yes
+APT-100909,2025/01/24,2025-02-18,45,25,94.40,Blood Test,North,Walk-in,No
+APT-100129,Mar 12 2025,2025-03-18, 48 ,6 days,£132,Blood Test,East,Walk-in,No
+APT-100637,2025/05/13,23-May-2025, 50 ,10,92,Procedure,West,Online,No
+APT-100402,May 25 2025,2025-06-04,63,10,165.26,Follow-up,West,Online,Yes
+APT-100521,Sep 24 2025,2025/10/07, 52 ,13,£113.99,Blood Test,Central,Online,No
+APT-100908,2025/05/21,04-Jun-2025,21,14,N/A,Checkup,Central,Online,Yes
+APT-100735,2025/04/25,May 08 2025,13,13 days,176,Blood Test,North,Online,No
+APT-100935,2025-11-19,not_a_date,15,6 days,£85.19,Specialist,North,Walk-in,No
+APT-100219,May 07 2025,2025-05-17,,10,94.61,Procedure,Central,Phone,No
+APT-100641,2025/09/24,Oct 15 2025,67,21,$132.92,Follow-up,North,Online,No
+APT-100937,2025-01-28,Feb 11 2025,50,14,$56,Specialist,West,Walk-in,No
+APT-100773,not_a_date,2025-11-16,46,16,68.60,Specialist,East,Phone,Yes
+APT-100828,15-Jan-2025,2025-01-22,40,7,$100,Specialist,North,Online,No
+APT-100945,2025-10-13,Oct 15 2025,35,2,174.61,Blood Test,West,Online,No
+APT-100624,Sep 29 2025,2025/10/20, 76 ,,€257,Specialist,East,Online,No
+APT-100210,09-Jun-2025,Jun 22 2025,20,13 days,€168.32,Follow-up,West,Phone,No
+APT-100781,2025/11/04,2025-11-04,41,0,£161,Specialist,West,Online,Yes
+APT-100386,Nov 10 2025,2025-11-22,65,12 days,292.97,Checkup,North,Phone,Yes
+APT-100999,2025/02/28,2025-03-14,29,14,€92.21,Blood Test,East,Phone,No
+APT-100509,2025-08-12,16-Aug-2025, 69 ,4 days,£95,Follow-up,West,Walk-in,No
+APT-100267,Feb 01 2025,01-Feb-2025, 26 ,0,40,Follow-up,East,Online,Yes
+APT-100841,2025/10/12,26-Oct-2025,8,14,95.97,Blood Test,Central,Phone,No
+APT-100441,Aug 09 2025,2025/08/18,63,9,€97,Procedure,East,Online,Yes
+APT-100496,2025/06/19,Jun 21 2025,79,,£51.46,Procedure,West,Online,No
+APT-100112,2025/09/13,2025-09-23,58,10,103.10,Follow-up,West,Online,No
+APT-100691,2025-05-20,07-Jun-2025,unknown,18,€95,Procedure,West,Phone,No
+APT-100232,Nov 20 2025,30-Nov-2025, 40 ,N/A,90,Specialist,East,Phone,No
+APT-100891,05-Sep-2025,Sep 18 2025,42,13,€137,Procedure,East,Phone,Yes
+APT-100607,Dec 19 2025,Dec 20 2025,71,1,99,Specialist,West,Phone,Yes
+APT-100671,16-Apr-2025,Apr 16 2025,35,0,€152,Procedure,North,Walk-in,No
+APT-100373,17-Sep-2025,03-Oct-2025,13,16,£67,Follow-up,Central,Online,Yes
+APT-100859,2025/05/31,2025/06/14,47,14 days,€199,Procedure,Central,Online,No
+APT-100864,06-Jun-2025,2025/06/11,65,,135.38,Blood Test,West,Walk-in,No
+APT-100233,2025-01-31,Feb 05 2025,,N/A,219,Blood Test,Central,Phone,Yes
+APT-100806,2025/09/25,Oct 06 2025,47,11,$189.06,Follow-up,West,Online,No
+APT-100676,11-Jan-2025,2025/01/13,64,2,£156.11,Checkup,East,Online,No
+APT-100317,2025/10/05,Oct 12 2025,37,7 days,$118,Procedure,West,Phone,No
+APT-100648,May 27 2025,Jun 04 2025,63,8,$206,Procedure,Central,Online,No
+APT-100410,Sep 16 2025,30-Sep-2025,66,14 days,84,Specialist,Central,Walk-in,Yes
+APT-100920,26-May-2025,2025/06/12, 6 ,17,£120,Specialist,West,Online,No
+APT-100709,06-Dec-2025,2025/12/27,24,21,€103.82,Procedure,East,Walk-in,Yes
+APT-100358,09-Mar-2025,Mar 21 2025,15,12,€116,Blood Test,North,Phone,No
+APT-100258,2025-07-01,2025/07/14,29,13,€102.35,Specialist,West,Walk-in,No
+APT-100744,15-Nov-2025,28-Nov-2025,25,13,€106.01,Blood Test,Central,Online,No
+APT-100627,12-Jun-2025,2025/06/21,65,9,46.54,Specialist,East,Phone,No
+APT-100632,Oct 08 2025,2025/10/16, 30 ,8,€190.24,Follow-up,East,Phone,No
+APT-100282,08-Feb-2025,01-Mar-2025, 55 ,21,£176,Follow-up,West,Phone,Yes
+APT-100376,28-Jun-2025,Jul 14 2025, 30 ,16 days,$259.43,Follow-up,West,Walk-in,No
+APT-100384,27-Dec-2025,31-Dec-2025,55,4,$97.79,Follow-up,Central,Walk-in,No
+APT-100224,29-Oct-2025,2025/11/04,39,6,92,Specialist,East,Walk-in,No
+APT-100979,Dec 19 2025,2026-01-03,49,15,143,Specialist,North,Phone,No
+APT-100836,2025-06-24,2025-07-14,21,,$127,Blood Test,East,Walk-in,No
+APT-100472,15-Jul-2025,not_a_date,40,0,€97,Checkup,East,Online,No
+APT-100347,2025/10/26,2025-10-26,59,0,£-88,Procedure,Central,Phone,No
+APT-100505,02-Nov-2025,2025-11-08,34,6,$155.49,Blood Test,East,Walk-in,No
+APT-100639,2025-11-23,23-Nov-2025,23,0,€74.31,Blood Test,Central,Walk-in,Yes
+APT-100938,2025/03/19,30-Mar-2025, 62 ,11,94,Blood Test,Central,Online,No
+APT-100797,Feb 24 2025,10-Mar-2025, 28 ,,£132,Specialist,North,Phone,No
+APT-100952,Jul 14 2025,Jul 15 2025,26,1,€101,Blood Test,East,Online,No
+APT-100927,2025/05/10,2025-05-22,37,12 days,£67,Blood Test,North,Phone,Yes
+APT-100619,2025/03/04,15-Mar-2025, 63 ,11 days,278.72,Specialist,Central,Online,No
+APT-100877,2025-08-21,01-Sep-2025, 38 ,11,€56,Procedure,West,Phone,No
+APT-100825,2025-12-09,29-Dec-2025,50,20,$47,Specialist,Central,Online,No
+APT-100645,2025/05/21,29-May-2025,50,8,N/A,Blood Test,Central,Phone,Yes
+APT-100868,31-Aug-2025,2025-09-14,22,14 days,€132,Specialist,North,Online,Yes
+APT-100556,Oct 08 2025,2025-10-14,58,6 days,127.00,Procedure,West,Online,No
+APT-100984,2025/04/29,2025-05-08,59,9,£84,Blood Test,North,Walk-in,No
+APT-100577,Sep 21 2025,2025-10-06,63,15,£83,Follow-up,West,Online,No
+APT-100795,2025-08-04,21-Aug-2025,28,17.0,€171.45,Procedure,West,Walk-in,Yes
+APT-100085,08-Nov-2025,2025-11-14,50,6 days,$136,Follow-up,Central,Walk-in,No
+APT-100242,09-Dec-2025,2025-12-22,,13,£88,Specialist,West,Phone,Yes
+APT-100698,2025/12/14,Dec 30 2025,51,16 days,€349.23,Checkup,North,Phone,No
+APT-100159,Aug 11 2025,25-Aug-2025,36,14 days,283.07,Procedure,East,Phone,Yes
+APT-100524,Dec 10 2025,2025/12/14, 35 ,4,84.62,Checkup,East,Online,No
+APT-100035,24-Jun-2025,2025/06/25, 70 ,1 days,$79.20,Blood Test,North,Phone,Yes
+APT-100540,2025/06/17,2025/07/02,42,15,£111,Blood Test,East,Online,No
+APT-100170,2025/11/24,2025/11/27,56,3,£111,Follow-up,North,Walk-in,No
+APT-100654,2025/02/11,2025-03-11,48,,€239.51,Procedure,West,Online,No
+APT-100912,30-May-2025,2025-06-10,53,11,$174.97,Procedure,East,Walk-in,No
+APT-100879,Jun 06 2025,24-Jun-2025,,18,$73,Follow-up,West,Walk-in,No
+APT-100869,11-Oct-2025,2025/11/04,35,24,53.10,Procedure,East,Online,Yes
+APT-100968,2025-12-05,Dec 14 2025,38,9,€143.03,Checkup,Central,Walk-in,No
+APT-100733,27-Jan-2025,2025-01-27,37,0,121,Procedure,Central,Walk-in,No
+APT-100095,19-Dec-2025,Dec 19 2025,41,0,£127,Procedure,East,Phone,No
+APT-100563,Nov 07 2025,2025/11/14, 58 ,7,98,Blood Test,Central,Online,No
+APT-100240,May 02 2025,2025-05-06,35,4,€145.53,Follow-up,West,Walk-in,No
+APT-100742,13-Apr-2025,2025-04-18,43,5,€107.34,Procedure,North,Online,No
+APT-100574,2025/12/04,Dec 19 2025,50,15,177.71,Procedure,North,Walk-in,No
+APT-100690,Apr 23 2025,2025/04/30, 53 ,7,€115,Specialist,East,Online,No
+APT-100460,2025/04/01,2025-04-24,40,23 days,134,Blood Test,West,Online,No
+APT-100553,Oct 19 2025,30-Oct-2025,27,11,€201.41,Specialist,Central,Walk-in,No
+APT-100900,Apr 27 2025,2025/05/09,55,12 days,$48,Specialist,Central,Online,No
+APT-100206,2025/04/19,May 02 2025, 29 ,13,€120.41,Follow-up,West,Walk-in,No
+APT-100392,03-Jun-2025,03-Jun-2025,78,0,€77.96,Follow-up,East,Phone,No
+APT-100794,Jan 07 2025,09-Jan-2025, 46 ,2,85,Blood Test,North,Phone,No
+APT-100397,2025/03/01,2025-03-20,25,N/A,112.47,Blood Test,East,Phone,No
+APT-100766,2025-06-09,18-Jun-2025, 81 ,9,€80,Procedure,North,Walk-in,No
+APT-100870,29-Sep-2025,2025-10-07,22,8,£201,Specialist,Central,Online,Yes
+APT-100217,2025/08/20,28-Aug-2025,47,8,122,Follow-up,North,Online,No
+APT-100004,06-May-2025,2025/05/14,55,8,€233,Follow-up,North,Phone,No
+APT-100768,13-Dec-2025,18-Dec-2025,,,$127.59,Checkup,East,Walk-in,No
+APT-100642,2025-09-06,2025/09/14,41,8 days,,Follow-up,North,Phone,No
+APT-100919,2025-10-21,2025-11-01, 34 ,11 days,$142,Follow-up,East,Walk-in,No
+APT-100612,2025-04-01,Apr 12 2025,58,11,$203.41,Checkup,East,Walk-in,No
+APT-100738,Nov 30 2025,2025-12-21,59,21,84,Follow-up,East,Online,No
+APT-100546,Apr 09 2025,Apr 23 2025,24,N/A,103,Checkup,North,Phone,No
+APT-100725,2025/07/14,2025/07/22, 62 ,8,N/A,Procedure,East,Online,No
+APT-100683,2025/07/19,2025-08-01,48,13 days,$150,Procedure,Central,Online,No
+APT-100098,2025-12-17,Dec 27 2025,58,10 days,€134.07,Specialist,East,Walk-in,Yes
+APT-100804,11-Aug-2025,Aug 17 2025,10,N/A,€163,Follow-up,Central,Online,No
+APT-100727,Aug 04 2025,16-Aug-2025,57,12,£94.77,Blood Test,North,Phone,Yes
+APT-100573,2025-03-28,2025-04-05,18,8 days,€96.90,Specialist,Central,Phone,No
+APT-100406,2025/04/15,2025/04/17, 16 ,N/A,£169.57,Specialist,East,Walk-in,No
+APT-100502,16-May-2025,2025-05-16,,0,£115,Checkup,North,Phone,No
+APT-100047,May 16 2025,02-Jun-2025,14,,£139,Checkup,North,Walk-in,No
+APT-100032,2025-03-23,2025-04-01, 49 ,9,$97.06,Procedure,West,Walk-in,No
+APT-100779,2025/06/04,18-Jun-2025, 30 ,14,102.17,Specialist,West,Online,No
+APT-100839,2025-12-26,2026/01/03,38,8,$258.66,Blood Test,East,Phone,No
+APT-100200,2025-10-09,21-Oct-2025, 44 ,12,€120,Checkup,East,Online,No
+APT-100134,26-Feb-2025,01-Mar-2025,,3,89,Specialist,North,Online,No
+APT-100027,Apr 23 2025,2025/05/05,44,12,132.62,Procedure,West,Online,Yes
+APT-100902,Apr 02 2025,2025/04/12,63,10 days,N/A,Checkup,East,Walk-in,No
+APT-100230,Feb 06 2025,2025/02/10,32,4,$141,Follow-up,North,Online,No
+APT-100489,May 23 2025,08-Jun-2025, 65 ,16,€124.16,Specialist,Central,Walk-in,Yes
+APT-100772,08-Feb-2025,2025/02/22,31,14,€65.38,Procedure,West,Online,No
+APT-100378,May 06 2025,31-May-2025,31,25 days,81.80,Procedure,North,Online,No
+APT-100288,2025/10/04,Oct 15 2025,22,11,£135,Follow-up,East,Phone,No
+APT-100418,2025/01/23,2025/02/10, 70 ,18,€209,Follow-up,West,Walk-in,No
+APT-100674,2025/10/27,Oct 27 2025, 71 ,0,103,Specialist,West,Walk-in,No
+APT-100391,Oct 11 2025,2025/10/24,30,13.0,€95,Blood Test,West,Walk-in,No
+APT-100592,01-Sep-2025,Sep 14 2025,50,,68.26,Follow-up,West,Online,No
+APT-100498,Mar 01 2025,04-Mar-2025,60,3,€77,Follow-up,East,Walk-in,No
+APT-100138,15-Dec-2025,Dec 30 2025,53,15,$160.88,Blood Test,Central,Walk-in,No
+APT-100062,05-Feb-2025,Feb 07 2025,63,2,193.21,Specialist,North,Online,No
+APT-100471,25-Feb-2025,25-Feb-2025,31,0,129.24,Specialist,North,Online,No
+APT-100647,09-Feb-2025,Feb 18 2025,60,9 days,$25.34,Follow-up,North,Online,No
+APT-100128,23-Apr-2025,2025-05-03,41,10,$181,Blood Test,Central,Phone,Yes
+APT-100660,2025/03/20,Mar 25 2025, 66 ,5,€79.81,Blood Test,Central,Online,No
+APT-100520,not_a_date,not_a_date,64,0,$88.25,Blood Test,East,Walk-in,No
+APT-100838,Nov 02 2025,18-Nov-2025,41,16 days,172,Checkup,East,Phone,No
+APT-100989,2025-08-21,31-Aug-2025,50,10,$204.78,Procedure,Central,Online,No
+APT-100064,05-Dec-2025,Dec 20 2025,35,15 days,€91.28,Blood Test,East,Online,No
+APT-100812,2025-08-27,16-Sep-2025, 71 ,20,$103.60,Checkup,East,Online,Yes
+APT-100014,Jan 16 2025,Jan 16 2025,73,0 days,€111.48,Specialist,Central,Walk-in,No
+APT-100156,2025-06-24,2025-07-17,30,23,72,Specialist,Central,Walk-in,No
+APT-100040,Feb 22 2025,2025/03/09,72,N/A,£94.23,Procedure,West,Online,Yes
+APT-100492,Sep 18 2025,2025/09/28,32,10,101,Procedure,Central,Walk-in,No
+APT-100379,2025/07/09,2025/07/13,75,4,$70,Follow-up,East,Walk-in,Yes
+APT-100187,2025-05-03,May 12 2025, 38 ,9,£107.27,Follow-up,East,Online,No
+APT-100763,2025/02/25,not_a_date,13,9,159,Blood Test,West,Online,No
+APT-100216,2025-09-22,Sep 26 2025,30,,125,Procedure,Central,Online,No
+APT-100791,2025/09/17,28-Sep-2025,44,11,$101,Blood Test,North,Phone,No
+APT-100052,13-Jul-2025,Jul 18 2025, 51 ,5.0,£76,Blood Test,Central,Online,No
+APT-100878,May 19 2025,2025/05/28,12,9,$80.52,Procedure,West,Online,Yes
+APT-100337,2025/03/03,2025/03/10,37,N/A,$161.40,Specialist,Central,Walk-in,Yes
+APT-100748,2025-08-31,2025-09-05, 45 ,5 days,104,Specialist,North,Online,No
+APT-100719,14-Jul-2025,23-Jul-2025,34,9 days,,Procedure,West,Walk-in,Yes
+APT-100724,22-Jun-2025,2025/07/03,25,,£106.38,Checkup,Central,Phone,No
+APT-100295,2025-09-04,2025-09-09,40,5 days,124.41,Checkup,North,Walk-in,No
+APT-100701,Aug 28 2025,Sep 14 2025,51,17,208.01,Blood Test,East,Online,No
+APT-100251,2025/08/31,2025/09/16,57,16,€169,Checkup,Central,Online,No
+APT-100726,23-May-2025,2025-06-02,,10,156,Specialist,West,Walk-in,No
+APT-100461,Jul 31 2025,2025-08-10,20,10,245,Specialist,West,Walk-in,Yes
+APT-100455,28-Jul-2025,2025/08/01,10,4,€236.54,Follow-up,East,Walk-in,No
+APT-100527,09-Aug-2025,2025-08-19,70,10,$63.52,Procedure,Central,Walk-in,No
+APT-100815,2025/05/18,May 18 2025,26,0,232.64,Blood Test,North,Online,No
+APT-100862,2025/12/21,2026-01-10, 56 ,20.0,103.30,Blood Test,North,Online,No
+APT-100269,23-Jun-2025,2025/07/03,64,10,$65,Checkup,North,Walk-in,No
+APT-100201,Mar 26 2025,2025/04/08,34,13,95,Blood Test,West,Phone,No
+APT-100161,2025-08-21,2025-09-05, 83 ,15,179,Blood Test,North,Walk-in,No
+APT-100555,2025/07/27,Aug 03 2025,49,7 days,£79.54,Specialist,Central,Phone,No
+APT-100729,2025/02/11,Feb 15 2025,75,4 days,$175.92,Procedure,Central,Online,No
+APT-100401,2025/05/20,2025-05-25,52,5,89.43,Checkup,West,Walk-in,No
+APT-100702,2025-03-07,2025-03-12,53,5,€134.49,Checkup,Central,Online,No
+APT-100476,13-Apr-2025,2025/04/27,40,,€61.35,Specialist,North,Online,No
+APT-100821,05-May-2025,24-May-2025,43,19,$136.19,Follow-up,West,Online,No
+APT-100771,2025/04/12,18-Apr-2025,,6,€122,Follow-up,Central,Walk-in,No
+APT-100105,18-May-2025,30-May-2025,23,12,145,Specialist,Central,Walk-in,No
+APT-100565,2025-06-14,21-Jun-2025,37,7,$56,Checkup,North,Phone,No
+APT-100389,05-Jan-2025,10-Jan-2025,28,5,€148,Follow-up,North,Phone,No
+APT-100001,2025/02/27,2025/03/08,59,9 days,86,Follow-up,North,Online,No
+APT-100961,Jan 31 2025,2025/02/19,47,N/A,£313,Checkup,East,Online,No
+APT-100136,2025/11/18,2025/11/22, 63 ,4,£79,Specialist,West,Phone,No
+APT-100561,Aug 09 2025,Sep 02 2025,29,24,€53,Procedure,Central,Walk-in,Yes
+APT-100931,Jul 25 2025,2025-08-17,51,23,€141,Checkup,North,Walk-in,Yes
+APT-100080,2025-05-17,May 25 2025,36,8,£86,Specialist,East,Phone,No
+APT-100205,2025/08/05,08-Aug-2025,43,3,€121.21,Follow-up,North,Online,No
+APT-100034,2025/08/05,2025-08-20,33,15,£91,Checkup,Central,Phone,No
+APT-100942,2025-02-13,2025-02-27,47,N/A,€230,Blood Test,West,Online,No
+APT-100775,2025-11-18,2025/11/18,18,0,€202.32,Follow-up,Central,Online,No
+APT-100508,2025-06-10,Jun 20 2025,44,10.0,104.65,Procedure,West,Phone,No
+APT-100427,2025/12/28,2026/01/11,22,14 days,128.29,Specialist,North,Phone,No
+APT-100454,14-Oct-2025,2025/10/20, 52 ,6,,Procedure,West,Online,Yes
+APT-100366,2025-08-23,03-Sep-2025, 42 ,11,$89,Specialist,North,Walk-in,No
+APT-100091,25-Aug-2025,10-Sep-2025,41,16,€235.44,Procedure,Central,Walk-in,No
+APT-100339,May 07 2025,13-May-2025, 45 ,6,€90.47,Blood Test,Central,Online,No
+APT-100897,Feb 21 2025,Mar 04 2025, 71 ,11,$53.91,Procedure,East,Walk-in,No
+APT-100564,2025-12-02,Dec 20 2025,55,18,€34,Specialist,West,Walk-in,No
+APT-100345,2025/08/03,2025-08-14,,11,70.38,Checkup,Central,Online,Yes
+APT-100776,05-May-2025,09-May-2025,31,4,$76.20,Follow-up,East,Phone,No
+APT-100241,2025-05-23,2025/06/01,38,9,£60.33,Specialist,North,Phone,No
+APT-100013,2025/01/17,17-Jan-2025,30,0 days,159.33,Checkup,Central,Online,No
+APT-100315,30-Jan-2025,09-Feb-2025,18,10,£219.57,Specialist,West,Walk-in,No
+APT-100600,23-Dec-2025,Jan 07 2026,39,15,€113,Checkup,Central,Walk-in,No
+APT-100387,Dec 01 2025,24-Dec-2025,70,23,£87,Blood Test,North,Phone,No
+APT-100273,2025/04/08,2025/04/18, 36 ,10,$91,Procedure,North,Walk-in,No
+APT-100166,2025-09-17,02-Oct-2025,67,15,95.41,Specialist,Central,Walk-in,No
+APT-100840,May 22 2025,May 31 2025, 40 ,9,€96,Checkup,Central,Walk-in,No
+APT-100319,Jun 10 2025,2025-06-19, 39 ,9,£81,Blood Test,Central,Online,Yes
+APT-100646,14-Aug-2025,14-Aug-2025,39,0,€125,Follow-up,East,Phone,No
+APT-100818,2025/02/14,Feb 24 2025,38,10,€35.56,Blood Test,Central,Phone,No
+APT-100484,2025-04-09,Apr 13 2025,46,4,$234.13,Procedure,North,Walk-in,No
+APT-100513,2025/07/17,2025-07-20,8,3,$144.56,Procedure,North,Walk-in,No
+APT-100504,2025-02-25,Mar 02 2025,39,5,$60,Procedure,East,Online,No
+APT-100831,Apr 04 2025,2025/04/07,46,N/A,174,Procedure,North,Walk-in,No
+APT-100243,06-Sep-2025,2025/09/22,,16 days,$-191,Checkup,North,Online,No
+APT-100566,2025-08-27,Aug 27 2025,43,0,€68.51,Blood Test,East,Walk-in,No
+APT-100875,30-Jun-2025,2025/07/22, 67 ,22,£97,Procedure,Central,Online,No
+APT-100562,24-Oct-2025,09-Nov-2025,-2,16,£-233,Checkup,Central,Walk-in,No
+APT-100978,2025/08/19,2025-08-19,28,0,$101,Blood Test,North,Phone,No
+APT-100686,2025/10/07,Oct 15 2025, 34 ,8,€133,Specialist,West,Phone,Yes
+APT-100957,2025/08/08,2025/08/21,98,13,$69.97,Procedure,East,Phone,No
+APT-100189,2025/05/04,2025-05-04,25,0,€90.78,Follow-up,West,Phone,No
+APT-100782,2025/03/03,15-Mar-2025,15,12,$79,Blood Test,East,Phone,No
+APT-100975,2025/03/22,2025-03-22,35,0,£70.11,Specialist,North,Walk-in,No
+APT-100699,Jul 27 2025,04-Aug-2025,45,8 days,€104.08,Specialist,Central,Online,No
+APT-100475,2025-04-24,not_a_date,54,8,,Checkup,West,Walk-in,No
+APT-100681,Jun 30 2025,2025/07/02,42,2 days,£162.66,Checkup,East,Walk-in,No
+APT-100510,2025/11/07,18-Nov-2025,21,11,175,Specialist,West,Walk-in,No
+APT-100058,2025-07-05,2025/07/17, 52 ,N/A,£88.45,Blood Test,North,Walk-in,Yes
+APT-100474,2025/08/29,Sep 19 2025,28,21,$119.01,Checkup,West,Online,No
+APT-100560,18-Apr-2025,Apr 30 2025,42,,$233,Follow-up,East,Phone,No
+APT-100856,2025-08-18,2025/08/22,67,4,68.45,Follow-up,North,Phone,Yes
+APT-100747,2025-03-06,2025-03-10,51,4,N/A,Checkup,Central,Online,No
+APT-100252,28-Jul-2025,2025/08/21,6,24,€64.98,Specialist,West,Walk-in,No
+APT-100021,Oct 15 2025,2025-10-23,32,8,130,Specialist,East,Walk-in,No
+APT-100313,Jun 01 2025,2025/06/16,52,15,$151.56,Checkup,West,Walk-in,No
+APT-100459,Mar 25 2025,2025/03/26,,1,£133.96,Specialist,North,Online,No
+APT-100160,Mar 22 2025,Mar 25 2025,-3,,$94,Procedure,West,Phone,No
+APT-100276,13-Mar-2025,Mar 24 2025, 84 ,11,$74,Checkup,East,Phone,Yes
+APT-100955,not_a_date,2025/06/19,67,17 days,€85.45,Specialist,East,Walk-in,No
+APT-100191,10-Feb-2025,Feb 25 2025, 18 ,15,$39,Specialist,East,Online,No
+APT-100385,2025/06/04,2025/06/15,47,11,€153.44,Procedure,North,Walk-in,No
+APT-100805,2025-04-01,2025-04-08,13,7 days,46,Procedure,West,Phone,Yes
+APT-100413,2025/01/27,Feb 14 2025,81,18,$232,Procedure,West,Phone,No
+APT-100491,25-Nov-2025,15-Dec-2025, 88 ,20,£54,Blood Test,North,Phone,No
+APT-100343,2025-11-14,2025/11/20,63,6,€101,Follow-up,West,Phone,No
+APT-100769,12-Jul-2025,2025-08-03,52,22,€52.31,Blood Test,East,Phone,No
+APT-100308,12-Oct-2025,2025-10-25, 62 ,13,£43,Blood Test,West,Walk-in,No
+APT-100661,28-Dec-2025,Jan 03 2026,40,6,91,Follow-up,Central,Walk-in,No
+APT-100130,18-Sep-2025,2025-09-18, 48 ,0,$92.85,Procedure,North,Online,No
+APT-100663,2025/02/02,Feb 08 2025,31,6,€72.73,Checkup,West,Phone,No
+APT-100871,Jun 26 2025,Jun 30 2025,38,4,$49,Checkup,East,Walk-in,No
+APT-100099,16-Jun-2025,24-Jun-2025,48,8,247.96,Checkup,West,Online,No
+APT-100372,Apr 20 2025,10-May-2025,17,20,59,Blood Test,Central,Online,No
+APT-100087,2025/03/29,10-Apr-2025,46,12,$126,Specialist,Central,Walk-in,No
+APT-100458,2025/05/02,May 08 2025,65,6 days,€128,Follow-up,Central,Walk-in,No
+APT-100330,2025/04/06,Apr 15 2025, 70 ,N/A,€284.98,Blood Test,North,Online,Yes
+APT-100214,11-Jul-2025,2025-07-18,37,7 days,66,Procedure,East,Phone,No
+APT-100466,2025/12/09,2025-12-23,72,14,$112.21,Specialist,Central,Online,No
+APT-100121,Oct 03 2025,Oct 06 2025,63,,€157,Checkup,Central,Walk-in,No
+APT-100614,2025-09-23,20-Oct-2025, 39 ,27 days,133.00,Follow-up,East,Phone,No
+APT-100020,Jan 14 2025,03-Feb-2025,51,20,€185.41,Specialist,Central,Online,No
+APT-100700,2025-03-26,Apr 01 2025, 48 ,6,$89.89,Checkup,East,Walk-in,No
+APT-100071,2025/05/23,2025/06/12,unknown,20,€438.69,Procedure,West,Online,No
+APT-100106,2025-02-03,2025-02-26,53,23,€250,Blood Test,West,Phone,No
+APT-100270,2025-02-25,2025/03/17,62,20,111.83,Blood Test,Central,Online,No
+APT-100860,2025/04/24,05-May-2025,40,11,$239,Specialist,North,Online,No

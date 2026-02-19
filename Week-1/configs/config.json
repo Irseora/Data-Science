@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "raw_csv": "appointments_raw.csv",
+  "date_format": "%Y-%m-%d",
+  "currency_columns": [
+    "fee"
+  ],
+  "validation_rules": {
+    "age_min": 0,
+    "age_max": 120,
+    "fee_min": 0,
+    "waiting_days_min": 0
+  }
+}
