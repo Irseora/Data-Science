@@ -1,0 +1,19 @@
+{
+    "project_root": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project",
+    "data_raw": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project\\data\\raw",
+    "data_interim": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project\\data\\interim",
+    "data_processed": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project\\data\\processed",
+    "notebooks": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project\\notebooks",
+    "reports": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project\\reports",
+    "configs": "c:\\Users\\Vivi\\Documents\\Repos\\Data-Science\\midterm_project\\configs",
+    "seed": 42,
+    "missing_value_strategy": "mean",
+    "scaling_strategy": "standard",
+    "pca_settings": {
+        "n_components": 5
+    },
+    "clustering_parameters": {
+        "n_clusters": null,
+        "algorithm": null
+    }
+}
