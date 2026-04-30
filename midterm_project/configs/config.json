@@ -1,0 +1,19 @@
+{
+    "project_root": "/media/irseora/external/Repos/Data-Science/midterm_project",
+    "data_raw": "/media/irseora/external/Repos/Data-Science/midterm_project/data/raw",
+    "data_interim": "/media/irseora/external/Repos/Data-Science/midterm_project/data/interim",
+    "data_processed": "/media/irseora/external/Repos/Data-Science/midterm_project/data/processed",
+    "notebooks": "/media/irseora/external/Repos/Data-Science/midterm_project/notebooks",
+    "reports": "/media/irseora/external/Repos/Data-Science/midterm_project/reports",
+    "configs": "/media/irseora/external/Repos/Data-Science/midterm_project/configs",
+    "seed": 42,
+    "missing_value_strategy": "mean",
+    "scaling_strategy": "standard",
+    "pca_settings": {
+        "n_components": 5
+    },
+    "clustering_parameters": {
+        "n_clusters": null,
+        "algorithm": null
+    }
+}
